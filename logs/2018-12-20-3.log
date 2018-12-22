@@ -1,0 +1,123 @@
+[18:12:18] [main/INFO]: Loaded 0 recipes
+[18:12:18] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[18:12:18] [Server thread/INFO]: Loading properties
+[18:12:18] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:280) ~[?:?]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:252) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:271) ~[?:?]
+	at org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:248) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:3183) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2333) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2269) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2257) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.DedicatedServer$2.run(DedicatedServer.java:92) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+[18:12:18] [Server thread/INFO]: Default game type: SURVIVAL
+[18:12:19] [Server thread/INFO]: Generating keypair
+[18:12:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:12:19] [Server thread/INFO]: Using default channel type
+[18:12:20] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-a4c555b (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
+[18:12:20] [Server thread/INFO]: Preparing level "world"
+[18:12:20] [Server thread/INFO]: Found new data pack file/bukkit, loading it automatically
+[18:12:20] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+[18:12:20] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[18:12:21] [Server thread/INFO]: Loaded 524 recipes
+[18:12:26] [Server thread/INFO]: ---- Migration of old nether folder required ----
+[18:12:26] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your nether folder to a new location in order to operate correctly.
+[18:12:26] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+[18:12:26] [Server thread/INFO]: Attempting to move world\DIM-1 to world_nether\DIM-1...
+[18:12:26] [Server thread/INFO]: Success! To restore nether in the future, simply move world_nether\DIM-1 to world\DIM-1
+[18:12:26] [Server thread/WARN]: Unable to migrate world data.
+[18:12:26] [Server thread/INFO]: ---- Migration of old nether folder complete ----
+[18:12:26] [Server thread/INFO]: ---- Migration of old the_end folder required ----
+[18:12:26] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your the_end folder to a new location in order to operate correctly.
+[18:12:26] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+[18:12:26] [Server thread/INFO]: Attempting to move world\DIM1 to world_the_end\DIM1...
+[18:12:26] [Server thread/INFO]: Success! To restore the_end in the future, simply move world_the_end\DIM1 to world\DIM1
+[18:12:26] [Server thread/WARN]: Unable to migrate world data.
+[18:12:26] [Server thread/INFO]: ---- Migration of old the_end folder complete ----
+[18:12:26] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: 4944443254581965493)
+[18:12:28] [Server thread/INFO]: Preparing spawn area: 4%
+[18:12:28] [Server thread/INFO]: Preparing spawn area: 8%
+[18:12:29] [Server thread/INFO]: Preparing spawn area: 12%
+[18:12:29] [Server thread/INFO]: Preparing spawn area: 16%
+[18:12:29] [Server thread/INFO]: Preparing spawn area: 20%
+[18:12:30] [Server thread/INFO]: Preparing spawn area: 24%
+[18:12:30] [Server thread/INFO]: Preparing spawn area: 28%
+[18:12:30] [Server thread/INFO]: Preparing spawn area: 32%
+[18:12:30] [Server thread/INFO]: Preparing spawn area: 36%
+[18:12:31] [Server thread/INFO]: Preparing spawn area: 40%
+[18:12:31] [Server thread/INFO]: Preparing spawn area: 44%
+[18:12:31] [Server thread/INFO]: Preparing spawn area: 48%
+[18:12:31] [Server thread/INFO]: Preparing spawn area: 52%
+[18:12:32] [Server thread/INFO]: Preparing spawn area: 56%
+[18:12:32] [Server thread/INFO]: Preparing spawn area: 60%
+[18:12:32] [Server thread/INFO]: Preparing spawn area: 64%
+[18:12:32] [Server thread/INFO]: Preparing spawn area: 68%
+[18:12:33] [Server thread/INFO]: Preparing spawn area: 72%
+[18:12:33] [Server thread/INFO]: Preparing spawn area: 76%
+[18:12:33] [Server thread/INFO]: Preparing spawn area: 80%
+[18:12:33] [Server thread/INFO]: Preparing spawn area: 84%
+[18:12:34] [Server thread/INFO]: Preparing spawn area: 88%
+[18:12:34] [Server thread/INFO]: Preparing spawn area: 92%
+[18:12:34] [Server thread/INFO]: Preparing spawn area: 96%
+[18:12:34] [Server thread/INFO]: Preparing spawn area: 100%
+[18:12:34] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: 4944443254581965493)
+[18:12:35] [Server thread/INFO]: Preparing spawn area: 4%
+[18:12:35] [Server thread/INFO]: Preparing spawn area: 8%
+[18:12:35] [Server thread/INFO]: Preparing spawn area: 12%
+[18:12:35] [Server thread/INFO]: Preparing spawn area: 16%
+[18:12:35] [Server thread/INFO]: Preparing spawn area: 20%
+[18:12:35] [Server thread/INFO]: Preparing spawn area: 24%
+[18:12:35] [Server thread/INFO]: Preparing spawn area: 28%
+[18:12:35] [Server thread/INFO]: Preparing spawn area: 32%
+[18:12:35] [Server thread/INFO]: Preparing spawn area: 36%
+[18:12:35] [Server thread/INFO]: Preparing spawn area: 40%
+[18:12:36] [Server thread/INFO]: Preparing spawn area: 44%
+[18:12:36] [Server thread/INFO]: Preparing spawn area: 48%
+[18:12:36] [Server thread/INFO]: Preparing spawn area: 52%
+[18:12:36] [Server thread/INFO]: Preparing spawn area: 56%
+[18:12:36] [Server thread/INFO]: Preparing spawn area: 60%
+[18:12:36] [Server thread/INFO]: Preparing spawn area: 64%
+[18:12:36] [Server thread/INFO]: Preparing spawn area: 68%
+[18:12:36] [Server thread/INFO]: Preparing spawn area: 72%
+[18:12:36] [Server thread/INFO]: Preparing spawn area: 76%
+[18:12:36] [Server thread/INFO]: Preparing spawn area: 80%
+[18:12:36] [Server thread/INFO]: Preparing spawn area: 84%
+[18:12:36] [Server thread/INFO]: Preparing spawn area: 88%
+[18:12:36] [Server thread/INFO]: Preparing spawn area: 92%
+[18:12:36] [Server thread/INFO]: Preparing spawn area: 96%
+[18:12:36] [Server thread/INFO]: Preparing spawn area: 100%
+[18:12:36] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: 4944443254581965493)
+[18:12:39] [Server thread/INFO]: Preparing spawn area: 4%
+[18:12:39] [Server thread/INFO]: Preparing spawn area: 8%
+[18:12:40] [Server thread/INFO]: Preparing spawn area: 12%
+[18:12:40] [Server thread/INFO]: Preparing spawn area: 16%
+[18:12:40] [Server thread/INFO]: Preparing spawn area: 20%
+[18:12:41] [Server thread/INFO]: Preparing spawn area: 24%
+[18:12:41] [Server thread/INFO]: Preparing spawn area: 28%
+[18:12:41] [Server thread/INFO]: Preparing spawn area: 32%
+[18:12:42] [Server thread/INFO]: Preparing spawn area: 36%
+[18:12:42] [Server thread/INFO]: Preparing spawn area: 40%
+[18:12:42] [Server thread/INFO]: Preparing spawn area: 44%
+[18:12:43] [Server thread/INFO]: Preparing spawn area: 48%
+[18:12:43] [Server thread/INFO]: Preparing spawn area: 52%
+[18:12:44] [Server thread/INFO]: Preparing spawn area: 56%
+[18:12:44] [Server thread/INFO]: Preparing spawn area: 60%
+[18:12:44] [Server thread/INFO]: Preparing spawn area: 64%
+[18:12:45] [Server thread/INFO]: Preparing spawn area: 68%
+[18:12:45] [Server thread/INFO]: Preparing spawn area: 72%
+[18:12:45] [Server thread/INFO]: Preparing spawn area: 76%
+[18:12:46] [Server thread/INFO]: Preparing spawn area: 80%
+[18:12:46] [Server thread/INFO]: Preparing spawn area: 84%
+[18:12:46] [Server thread/INFO]: Preparing spawn area: 88%
+[18:12:47] [Server thread/INFO]: Preparing spawn area: 92%
+[18:12:47] [Server thread/INFO]: Preparing spawn area: 96%
+[18:12:48] [Server thread/INFO]: Preparing spawn area: 100%
+[18:12:48] [Server thread/INFO]: Time elapsed: 21381 ms
+[18:12:48] [Server thread/INFO]: Done (27.989s)! For help, type "help"
+[18:12:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3116ms or 62 ticks behind
