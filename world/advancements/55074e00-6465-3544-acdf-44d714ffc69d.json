@@ -494,13 +494,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-12-22 13:25:53 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-12-22 13:25:53 +0100"
     },
@@ -509,6 +509,12 @@
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2018-12-22 17:27:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2018-12-23 18:05:05 +0100"
     },
     "done": true
   },
@@ -707,6 +713,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-22 16:59:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2018-12-23 17:14:42 +0100"
     },
     "done": true
   },
@@ -923,10 +935,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2018-12-22 13:35:15 +0100",
+      "minecraft:cave_spider": "2018-12-23 18:28:53 +0100",
       "minecraft:silverfish": "2018-12-22 13:35:53 +0100",
       "minecraft:spider": "2018-12-22 20:33:53 +0100",
       "minecraft:zombie": "2018-12-22 14:18:12 +0100",
-      "minecraft:creeper": "2018-12-22 13:37:11 +0100"
+      "minecraft:creeper": "2018-12-22 13:37:11 +0100",
+      "minecraft:zombie_villager": "2018-12-23 18:19:06 +0100"
     },
     "done": false
   },
@@ -1329,6 +1343,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2018-12-22 16:32:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2018-12-23 18:05:05 +0100"
     },
     "done": true
   },
