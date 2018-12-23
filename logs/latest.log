@@ -1,123 +1,199 @@
-[23:55:27] [main/INFO]: Loaded 0 recipes
-[23:55:27] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[23:55:27] [Server thread/INFO]: Loading properties
-[23:55:27] [Server thread/INFO]: Default game type: SURVIVAL
-[23:55:27] [Server thread/INFO]: Generating keypair
-[23:55:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:55:27] [Server thread/INFO]: Using default channel type
-[23:55:28] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-a4c555b (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
-[23:55:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:55:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:55:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:55:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:55:28] [Server thread/INFO]: Preparing level "world"
-[23:55:28] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[23:55:30] [Server thread/INFO]: Loaded 524 recipes
-[23:55:32] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: -692263376159001332)
-[23:55:32] [Server thread/INFO]: Preparing spawn area: 4%
-[23:55:32] [Server thread/INFO]: Preparing spawn area: 8%
-[23:55:32] [Server thread/INFO]: Preparing spawn area: 12%
-[23:55:32] [Server thread/INFO]: Preparing spawn area: 16%
-[23:55:32] [Server thread/INFO]: Preparing spawn area: 20%
-[23:55:32] [Server thread/INFO]: Preparing spawn area: 24%
-[23:55:32] [Server thread/INFO]: Preparing spawn area: 28%
-[23:55:32] [Server thread/INFO]: Preparing spawn area: 32%
-[23:55:32] [Server thread/INFO]: Preparing spawn area: 36%
-[23:55:32] [Server thread/INFO]: Preparing spawn area: 40%
-[23:55:32] [Server thread/INFO]: Preparing spawn area: 44%
-[23:55:33] [Server thread/INFO]: Preparing spawn area: 48%
-[23:55:33] [Server thread/INFO]: Preparing spawn area: 52%
-[23:55:33] [Server thread/INFO]: Preparing spawn area: 56%
-[23:55:33] [Server thread/INFO]: Preparing spawn area: 60%
-[23:55:33] [Server thread/INFO]: Preparing spawn area: 64%
-[23:55:33] [Server thread/INFO]: Preparing spawn area: 68%
-[23:55:33] [Server thread/INFO]: Preparing spawn area: 72%
-[23:55:33] [Server thread/INFO]: Preparing spawn area: 76%
-[23:55:33] [Server thread/INFO]: Preparing spawn area: 80%
-[23:55:33] [Server thread/INFO]: Preparing spawn area: 84%
-[23:55:33] [Server thread/INFO]: Preparing spawn area: 88%
-[23:55:33] [Server thread/INFO]: Preparing spawn area: 92%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 96%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 100%
-[23:55:34] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: -692263376159001332)
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 4%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 8%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 12%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 16%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 20%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 24%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 28%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 32%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 36%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 40%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 44%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 48%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 52%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 56%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 60%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 64%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 68%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 72%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 76%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 80%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 84%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 88%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 92%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 96%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 100%
-[23:55:34] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -692263376159001332)
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 4%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 8%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 12%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 16%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 20%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 24%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 28%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 32%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 36%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 40%
-[23:55:34] [Server thread/INFO]: Preparing spawn area: 44%
-[23:55:35] [Server thread/INFO]: Preparing spawn area: 48%
-[23:55:35] [Server thread/INFO]: Preparing spawn area: 52%
-[23:55:35] [Server thread/INFO]: Preparing spawn area: 56%
-[23:55:35] [Server thread/INFO]: Preparing spawn area: 60%
-[23:55:35] [Server thread/INFO]: Preparing spawn area: 64%
-[23:55:35] [Server thread/INFO]: Preparing spawn area: 68%
-[23:55:35] [Server thread/INFO]: Preparing spawn area: 72%
-[23:55:35] [Server thread/INFO]: Preparing spawn area: 76%
-[23:55:35] [Server thread/INFO]: Preparing spawn area: 80%
-[23:55:35] [Server thread/INFO]: Preparing spawn area: 84%
-[23:55:35] [Server thread/INFO]: Preparing spawn area: 88%
-[23:55:35] [Server thread/INFO]: Preparing spawn area: 92%
-[23:55:35] [Server thread/INFO]: Preparing spawn area: 96%
-[23:55:35] [Server thread/INFO]: Preparing spawn area: 100%
-[23:55:35] [Server thread/INFO]: Time elapsed: 3446 ms
-[23:55:35] [Server thread/WARN]: Server permissions file permissions.yml is not valid YAML.
-java.lang.ClassCastException: java.lang.String cannot be cast to java.util.Map
-	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.loadCustomPermissions(CraftServer.java:823) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.enablePlugins(CraftServer.java:355) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at net.minecraft.server.v1_13_R2.MinecraftServer.l(MinecraftServer.java:575) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:537) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:415) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at net.minecraft.server.v1_13_R2.DedicatedServer.init(DedicatedServer.java:270) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:680) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[23:55:35] [Server thread/INFO]: Done (7.090s)! For help, type "help"
-[23:55:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3871ms or 77 ticks behind
-[23:56:38] [Server thread/INFO]: fmesztro[/25.47.185.224:40574] logged in with entity id 174 at ([world]187.23588419688338, 71.0, -72.05135770089997)
-[23:56:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6124ms or 122 ticks behind
-[23:56:45] [Netty Server IO #5/INFO]: <fmesztro> ezmi[m
-[23:56:49] [Server thread/INFO]: fmesztro lost connection: Disconnected
-[23:56:50] [Server thread/INFO]: fmesztro left the game
-[23:57:12] [Server thread/INFO]: BOI[/25.37.59.166:52857] logged in with entity id 1570 at ([world]371.30000001192093, 11.0, 19.69999998807907)
-[23:57:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5626ms or 112 ticks behind
-[23:57:20] [Server thread/INFO]: BOI lost connection: Disconnected
-[23:57:20] [Server thread/INFO]: BOI left the game
-[23:57:26] [Server thread/INFO]: fmesztro[/25.47.185.224:40586] logged in with entity id 3066 at ([world]187.23588419688338, 71.0, -72.05135770089997)
-[23:57:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9718ms or 194 ticks behind
-[23:57:47] [Server thread/INFO]: Saving the game (this may take a moment!)
-[23:57:47] [Server thread/INFO]: Saved the game
-[23:59:14] [Server thread/INFO]: BOI[/25.37.59.166:52866] logged in with entity id 8089 at ([world]372.9337094763149, 11.0, 19.123327072789134)
-[23:59:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2553ms or 51 ticks behind
-[23:59:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4339ms or 86 ticks behind
-[23:59:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3567ms or 71 ticks behind
+[00:00:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5818ms or 116 ticks behind
+[00:00:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5498ms or 109 ticks behind
+[00:00:41] [Netty Server IO #2/INFO]: <BOI> szasz[m
+[00:00:46] [Netty Server IO #0/INFO]: <fmesztro> cs[m
+[00:00:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8368ms or 167 ticks behind
+[00:01:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2333ms or 46 ticks behind
+[00:01:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[00:01:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
+[00:02:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2179ms or 43 ticks behind
+[00:09:08] [Netty Server IO #0/INFO]: <fmesztro> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz[m
+[00:10:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:11:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[00:12:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:15:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[00:16:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:16:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[00:17:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2445ms or 48 ticks behind
+[00:18:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[00:18:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[00:19:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[00:19:33] [Netty Server IO #2/INFO]: <BOI> wtf[m
+[00:19:38] [Netty Server IO #2/INFO]: <BOI> zombi a csirkén ül[m
+[00:19:42] [Netty Server IO #0/INFO]: <fmesztro> xd[m
+[00:19:50] [Netty Server IO #0/INFO]: <fmesztro> slep[m
+[00:20:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[00:20:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3172ms or 63 ticks behind
+[00:20:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2988ms or 59 ticks behind
+[00:21:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3462ms or 69 ticks behind
+[00:21:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3062ms or 61 ticks behind
+[00:21:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[00:22:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2722ms or 54 ticks behind
+[00:22:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[00:23:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:23:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[00:24:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:24:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:24:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[00:25:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:25:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:27:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[00:27:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:28:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:29:09] [Netty Server IO #2/INFO]: <BOI> acfa[m
+[00:29:15] [Netty Server IO #0/INFO]: <fmesztro> t?[m
+[00:29:23] [Netty Server IO #2/INFO]: <BOI> ja[m
+[00:29:27] [Netty Server IO #2/INFO]: <BOI> de mar csortam[m
+[00:31:33] [Netty Server IO #0/INFO]: <fmesztro> zézézézézézéz[m
+[00:37:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:42:11] [Netty Server IO #0/INFO]: <fmesztro> zzzzzzz[m
+[00:42:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[00:43:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2712ms or 54 ticks behind
+[00:43:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[00:47:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3266ms or 65 ticks behind
+[00:48:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[00:49:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:50:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[00:51:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:51:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[00:52:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[00:52:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:52:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[00:53:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[00:53:24] [Netty Server IO #0/INFO]: <fmesztro> zZzZzZ[m
+[00:53:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3968ms or 79 ticks behind
+[00:53:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2801ms or 56 ticks behind
+[00:54:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4076ms or 81 ticks behind
+[00:54:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:54:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[00:54:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[00:55:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:56:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:57:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:57:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:58:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:58:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:58:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2437ms or 48 ticks behind
+[00:59:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[01:00:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01:00:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01:03:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[01:03:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[01:04:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[01:04:39] [Netty Server IO #0/INFO]: <fmesztro> zZzZzZzZZzzzzzzzZ[m
+[01:05:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01:06:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[01:06:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01:08:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01:09:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2467ms or 49 ticks behind
+[01:12:50] [Server thread/INFO]: BOI has made the advancement [Cover Me With Diamonds]
+[01:14:03] [Netty Server IO #0/INFO]: <fmesztro> csont van?[m
+[01:14:09] [Netty Server IO #2/INFO]: <BOI> ja[m
+[01:14:15] [Netty Server IO #0/INFO]: <fmesztro> ac?[m
+[01:14:19] [Netty Server IO #2/INFO]: <BOI> ja[m
+[01:15:02] [Netty Server IO #2/INFO]: <BOI> zzz[m
+[01:15:27] [Netty Server IO #0/INFO]: <fmesztro> wwwwwwwwwwwwww[m
+[01:16:10] [Netty Server IO #2/INFO]: <BOI> am sztem lassan 1000 fakjanal vagyok amit leraktam barlangokba[m
+[01:16:17] [Netty Server IO #2/INFO]: <BOI> hogy effisent legyen a monster trap[m
+[01:16:35] [Netty Server IO #0/INFO]: <fmesztro> az igen[m
+[01:17:25] [Netty Server IO #2/INFO]: <BOI> 1972 fakja lerakva xd[m
+[01:17:34] [Netty Server IO #0/INFO]: <fmesztro> az igen[m
+[01:17:58] [Netty Server IO #2/INFO]: <BOI> ez osszesen szamolja vagy csak egy fore?[m
+[01:18:03] [Netty Server IO #2/INFO]: <BOI> nezd mar meg neke dmennyi[m
+[01:18:19] [Netty Server IO #0/INFO]: <fmesztro> 2687 dirt blokk[m
+[01:18:37] [Server thread/INFO]: Saving the game (this may take a moment!)
+[01:18:38] [Server thread/INFO]: Saved the game
+[01:18:46] [Netty Server IO #0/INFO]: <fmesztro> nem közösen számolja[m
+[01:19:06] [Netty Server IO #2/INFO]: <BOI> nabaaazd[m
+[01:19:09] [Netty Server IO #2/INFO]: <BOI> 2k fakja lerakva[m
+[01:19:13] [Netty Server IO #0/INFO]: <fmesztro> 2687 dirt blokk[m
+[01:19:17] [Netty Server IO #0/INFO]: <fmesztro> xD[m
+[01:19:21] [Netty Server IO #2/INFO]: <BOI> :DD[m
+[01:19:43] [Netty Server IO #2/INFO]: <BOI> 54 zombit öltem meg[m
+[01:20:20] [Netty Server IO #2/INFO]: <BOI> 12k blokkot ütöttem ki[m
+[01:20:32] [Netty Server IO #0/INFO]: <fmesztro> azosztigen[m
+[01:23:32] [Netty Server IO #2/INFO]: <BOI> nem akarjuk lassan abbahagyni?[m
+[01:23:41] [Netty Server IO #0/INFO]: <fmesztro> de[m
+[01:23:49] [Netty Server IO #0/INFO]: <fmesztro> csak ültetek pár fát[m
+[01:23:58] [Netty Server IO #2/INFO]: <BOI> ok[m
+[01:25:40] [Netty Server IO #0/INFO]: <fmesztro> mi ez a kis pöcs fa[m
+[01:25:40] [Netty Server IO #2/INFO]: <BOI> ideiss[m
+[01:26:38] [Netty Server IO #2/INFO]: <BOI> miezasokfû[m
+[01:26:53] [Netty Server IO #2/INFO]: <BOI> vidáninnen[m
+[01:27:14] [Netty Server IO #0/INFO]: <fmesztro> elég fengsui?[m
+[01:27:28] [Netty Server IO #0/INFO]: <fmesztro> majd lesz tó is[m
+[01:27:32] [Netty Server IO #2/INFO]: <BOI> elgé iusgnef[m
+[01:27:43] [Netty Server IO #0/INFO]: <fmesztro> noymi[m
+[01:28:11] [Netty Server IO #2/INFO]: <BOI> nabazd[m
+[01:28:14] [Netty Server IO #0/INFO]: <fmesztro> gyere[m
+[01:28:15] [Netty Server IO #2/INFO]: <BOI> adide[m
+[01:28:17] [Netty Server IO #0/INFO]: <fmesztro> nézdf meg[m
+[01:28:38] [Netty Server IO #2/INFO]: <BOI> sukár[m
+[01:28:54] [Netty Server IO #0/INFO]: <fmesztro> itt majd[m
+[01:28:58] [Netty Server IO #0/INFO]: <fmesztro> búza lesz[m
+[01:29:02] [Netty Server IO #0/INFO]: <fmesztro> mint te[m
+[01:29:08] [Netty Server IO #2/INFO]: <BOI> lent meg retek[m
+[01:29:16] [Netty Server IO #2/INFO]: <BOI> mint te[m
+[01:29:18] [Netty Server IO #2/INFO]: <BOI> ja[m
+[01:29:18] [Netty Server IO #0/INFO]: <fmesztro> xD[m
+[01:29:21] [Netty Server IO #0/INFO]: <fmesztro> oki[m
+[01:29:50] [Netty Server IO #0/INFO]: <fmesztro> meg vagy toszva[m
+[01:29:56] [Netty Server IO #2/INFO]: <BOI> kapna el a keleti szél te pöcs[m
+[01:30:51] [Netty Server IO #0/INFO]: <fmesztro> LEEROY JENKIIIINS[m
+[01:31:37] [Netty Server IO #0/INFO]: <fmesztro> tszeded fel azonnal[m
+[01:31:52] [Netty Server IO #2/INFO]: <BOI> anyád faszát üldözd[m
+[01:31:53] [Netty Server IO #0/INFO]: <fmesztro> gyere te vandál[m
+[01:32:29] [Netty Server IO #2/INFO]: <BOI> itt vagy te[m
+[01:32:35] [Netty Server IO #0/INFO]: <fmesztro> oszt ez a rákos sejt mi ez itt[m
+[01:32:57] [Netty Server IO #2/INFO]: <BOI> enyi[m
+[01:33:01] [Netty Server IO #2/INFO]: <BOI> vizálló nád[m
+[01:33:13] [Netty Server IO #0/INFO]: <fmesztro> pinád[m
+[01:33:25] [Netty Server IO #0/INFO]: <fmesztro> xDDDDDDDDD[m
+[01:33:36] [Netty Server IO #0/INFO]: <fmesztro> kell egy Pi alakban lévõ nád farm[m
+[01:33:41] [Netty Server IO #2/INFO]: <BOI> xddd[m
+[01:33:45] [Netty Server IO #0/INFO]: <fmesztro> na majd holnap[m
+[01:33:47] [Netty Server IO #0/INFO]: <fmesztro> csá[m
+[01:33:50] [Netty Server IO #2/INFO]: <BOI> csõõ[m
+[01:34:00] [Netty Server IO #2/INFO]: <BOI> bocs[m
+[01:34:02] [Netty Server IO #2/INFO]: <BOI> xd[m
+[01:34:02] [Netty Server IO #0/INFO]: <fmesztro> 1 hp[m
+[01:34:07] [Netty Server IO #0/INFO]: <fmesztro> fél szív[m
+[01:34:15] [Netty Server IO #2/INFO]: <BOI> enyi[m
+[01:34:17] [Netty Server IO #0/INFO]: <fmesztro> köcsög[m
+[01:34:19] [Netty Server IO #0/INFO]: <fmesztro> halod[m
+[01:34:26] [Netty Server IO #0/INFO]: <fmesztro> encsántolj má nekem[m
+[01:34:51] [Netty Server IO #2/INFO]: <BOI> nem tudok maxosat[m
+[01:35:07] [Netty Server IO #0/INFO]: <fmesztro> mé[m
+[01:35:12] [Netty Server IO #2/INFO]: <BOI> mer lv 27 vagyok[m
+[01:35:13] [Netty Server IO #0/INFO]: <fmesztro> egész nap bányászol[m
+[01:35:25] [Netty Server IO #0/INFO]: <fmesztro> na bózdmerg[m
+[01:35:33] [Netty Server IO #2/INFO]: <BOI> majd holnapp beencsantolom akkor[m
+[01:35:42] [Netty Server IO #0/INFO]: <fmesztro> akkor inkább arra[m
+[01:35:49] [Netty Server IO #2/INFO]: <BOI> ká[m
+[01:36:10] [Netty Server IO #2/INFO]: <BOI> elég op lett[m
+[01:36:13] [Netty Server IO #0/INFO]: <fmesztro> dikk milyen hangja van[m
+[01:36:26] [Netty Server IO #0/INFO]: <fmesztro> lol menõ[m
+[01:36:32] [Netty Server IO #2/INFO]: <BOI> nyomja baltára is?[m
+[01:36:38] [Netty Server IO #0/INFO]: <fmesztro> lya[m
+[01:36:45] [Netty Server IO #2/INFO]: <BOI> fos[m
+[01:36:54] [Netty Server IO #0/INFO]: <fmesztro> jóaz[m
+[01:37:06] [Netty Server IO #0/INFO]: <fmesztro> alukálj[m
+[01:37:16] [Netty Server IO #0/INFO]: <fmesztro> na szév[m
+[01:37:20] [Netty Server IO #0/INFO]: <fmesztro> oszt menjünk[m
+[01:37:21] [Server thread/INFO]: Saving the game (this may take a moment!)
+[01:37:22] [Server thread/INFO]: Saved the game
+[01:37:27] [Netty Server IO #0/INFO]: <fmesztro> jó8[m
+[01:37:27] [Netty Server IO #2/INFO]: <BOI> na csecs[m
+[01:37:29] [Server thread/INFO]: fmesztro lost connection: Disconnected
+[01:37:29] [Server thread/INFO]: fmesztro left the game
+[01:37:31] [Netty Server IO #2/INFO]: <BOI> jo8[m
+[01:37:35] [Server thread/INFO]: BOI lost connection: Disconnected
+[01:37:35] [Server thread/INFO]: BOI left the game
+[01:37:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[01:37:56] [Server thread/INFO]: Stopping the server
+[01:37:56] [Server thread/INFO]: Stopping server
+[01:37:56] [Server thread/INFO]: Saving players
+[01:37:56] [Server thread/INFO]: Saving worlds
+[01:37:56] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[01:37:56] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[01:37:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
