@@ -1,268 +1,224 @@
-[17:03:50] [main/INFO]: Loaded 0 recipes
-[17:03:51] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[17:03:51] [Server thread/INFO]: Loading properties
-[17:03:51] [Server thread/INFO]: Default game type: SURVIVAL
-[17:03:51] [Server thread/INFO]: Generating keypair
-[17:03:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:03:51] [Server thread/INFO]: Using default channel type
-[17:03:52] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-a4c555b (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
-[17:03:55] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.9.7
-[17:03:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:03:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:03:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:03:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:03:55] [Server thread/INFO]: Preparing level "world"
-[17:03:55] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[17:03:56] [Server thread/INFO]: Loaded 524 recipes
-[17:03:57] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: -692263376159001332)
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 4%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 8%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 12%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 16%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 20%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 24%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 28%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 32%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 36%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 40%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 44%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 48%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 52%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 56%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 60%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 64%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 68%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 72%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 76%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 80%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 84%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 88%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 92%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 96%
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 100%
-[17:03:57] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: -692263376159001332)
-[17:03:57] [Server thread/INFO]: Preparing spawn area: 4%
-[17:03:58] [Server thread/INFO]: Preparing spawn area: 8%
-[17:03:58] [Server thread/INFO]: Preparing spawn area: 12%
-[17:03:58] [Server thread/INFO]: Preparing spawn area: 16%
-[17:03:58] [Server thread/INFO]: Preparing spawn area: 20%
-[17:03:58] [Server thread/INFO]: Preparing spawn area: 24%
-[17:03:58] [Server thread/INFO]: Preparing spawn area: 28%
-[17:03:58] [Server thread/INFO]: Preparing spawn area: 32%
-[17:03:58] [Server thread/INFO]: Preparing spawn area: 36%
-[17:03:58] [Server thread/INFO]: Preparing spawn area: 40%
-[17:03:58] [Server thread/INFO]: Preparing spawn area: 44%
-[17:03:58] [Server thread/INFO]: Preparing spawn area: 48%
-[17:03:58] [Server thread/INFO]: Preparing spawn area: 52%
-[17:03:58] [Server thread/INFO]: Preparing spawn area: 56%
-[17:03:58] [Server thread/INFO]: Preparing spawn area: 60%
-[17:03:58] [Server thread/INFO]: Preparing spawn area: 64%
-[17:03:58] [Server thread/INFO]: Preparing spawn area: 68%
-[17:03:58] [Server thread/INFO]: Preparing spawn area: 72%
-[17:03:59] [Server thread/INFO]: Preparing spawn area: 76%
-[17:03:59] [Server thread/INFO]: Preparing spawn area: 80%
-[17:03:59] [Server thread/INFO]: Preparing spawn area: 84%
-[17:03:59] [Server thread/INFO]: Preparing spawn area: 88%
-[17:03:59] [Server thread/INFO]: Preparing spawn area: 92%
-[17:03:59] [Server thread/INFO]: Preparing spawn area: 96%
-[17:03:59] [Server thread/INFO]: Preparing spawn area: 100%
-[17:03:59] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -692263376159001332)
-[17:03:59] [Server thread/INFO]: Preparing spawn area: 4%
-[17:03:59] [Server thread/INFO]: Preparing spawn area: 8%
-[17:03:59] [Server thread/INFO]: Preparing spawn area: 12%
-[17:03:59] [Server thread/INFO]: Preparing spawn area: 16%
-[17:03:59] [Server thread/INFO]: Preparing spawn area: 20%
-[17:03:59] [Server thread/INFO]: Preparing spawn area: 24%
-[17:03:59] [Server thread/INFO]: Preparing spawn area: 28%
-[17:03:59] [Server thread/INFO]: Preparing spawn area: 32%
-[17:03:59] [Server thread/INFO]: Preparing spawn area: 36%
-[17:03:59] [Server thread/INFO]: Preparing spawn area: 40%
-[17:03:59] [Server thread/INFO]: Preparing spawn area: 44%
-[17:03:59] [Server thread/INFO]: Preparing spawn area: 48%
-[17:04:00] [Server thread/INFO]: Preparing spawn area: 52%
-[17:04:00] [Server thread/INFO]: Preparing spawn area: 56%
-[17:04:00] [Server thread/INFO]: Preparing spawn area: 60%
-[17:04:00] [Server thread/INFO]: Preparing spawn area: 64%
-[17:04:00] [Server thread/INFO]: Preparing spawn area: 68%
-[17:04:00] [Server thread/INFO]: Preparing spawn area: 72%
-[17:04:00] [Server thread/INFO]: Preparing spawn area: 76%
-[17:04:00] [Server thread/INFO]: Preparing spawn area: 80%
-[17:04:00] [Server thread/INFO]: Preparing spawn area: 84%
-[17:04:00] [Server thread/INFO]: Preparing spawn area: 88%
-[17:04:00] [Server thread/INFO]: Preparing spawn area: 92%
-[17:04:00] [Server thread/INFO]: Preparing spawn area: 96%
-[17:04:00] [Server thread/INFO]: Preparing spawn area: 100%
-[17:04:00] [Server thread/INFO]: Time elapsed: 2931 ms
-[17:04:00] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.9.7
-[17:04:00] [Server thread/INFO]: [ClearLag] Loading modules...
-[17:04:00] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
-[17:04:00] [Server thread/INFO]: [ClearLag] Modules have been loaded!
-[17:04:00] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
-[17:04:00] [Server thread/WARN]: Server permissions file permissions.yml is not valid YAML.
-java.lang.ClassCastException: java.lang.String cannot be cast to java.util.Map
-	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.loadCustomPermissions(CraftServer.java:823) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.enablePlugins(CraftServer.java:355) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at net.minecraft.server.v1_13_R2.MinecraftServer.l(MinecraftServer.java:575) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:537) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:415) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at net.minecraft.server.v1_13_R2.DedicatedServer.init(DedicatedServer.java:270) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:680) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[17:04:00] [Thread-6/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.13]...
-[17:04:00] [Server thread/INFO]: Done (5.105s)! For help, type "help"
-[17:04:02] [Thread-6/INFO]: [ClearLag] No updates found!
-[17:04:15] [Server thread/INFO]: fmesztro[/25.47.185.224:60848] logged in with entity id 109 at ([world]223.89780425223535, 79.0, -25.774129684404585)
-[17:04:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6090ms or 121 ticks behind
-[17:04:16] [Server thread/INFO]: xatixatix[/25.72.77.4:61045] logged in with entity id 692 at ([world]212.85864586360307, 72.0, -36.04734086449133)
-[17:05:26] [Server thread/INFO]: BOI[/25.37.59.166:60430] logged in with entity id 3513 at ([world]51.71790770999085, 67.0, -62.69999998807906)
-[17:06:34] [Netty Server IO #3/INFO]: <xatixatix> z[m
-[17:06:34] [Netty Server IO #3/INFO]: <xatixatix> z[m
-[17:06:34] [Netty Server IO #3/INFO]: <xatixatix> zz[m
-[17:06:41] [Netty Server IO #4/INFO]: <BOI> z[m
-[17:06:42] [Netty Server IO #4/INFO]: <BOI> z[m
-[17:06:42] [Netty Server IO #4/INFO]: <BOI> zz[m
-[17:06:42] [Netty Server IO #4/INFO]: <BOI> z[m
-[17:07:05] [Server thread/INFO]: xatixatix lost connection: Disconnected
-[17:07:05] [Server thread/INFO]: xatixatix left the game
-[17:10:21] [Server thread/INFO]: xatixatix[/25.72.77.4:61104] logged in with entity id 17246 at ([world]206.38242175891693, 72.0, -31.557749828589024)
-[17:10:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[17:10:48] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[17:11:28] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[17:11:48] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 89 Entities![m
-[17:14:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
-[17:17:25] [Netty Server IO #5/INFO]: <xatixatix> z[m
-[17:17:25] [Netty Server IO #5/INFO]: <xatixatix> z[m
-[17:17:25] [Netty Server IO #5/INFO]: <xatixatix> z[m
-[17:17:26] [Netty Server IO #5/INFO]: <xatixatix> z[m
-[17:17:34] [Netty Server IO #4/INFO]: <BOI> z[m
-[17:17:34] [Netty Server IO #4/INFO]: <BOI> z[m
-[17:17:35] [Netty Server IO #4/INFO]: <BOI> zz[m
-[17:17:35] [Netty Server IO #4/INFO]: <BOI> z[m
-[17:17:35] [Netty Server IO #4/INFO]: <BOI> z[m
-[17:17:35] [Netty Server IO #4/INFO]: <BOI> z[m
-[17:17:36] [Netty Server IO #4/INFO]: <BOI> z[m
-[17:17:36] [Netty Server IO #4/INFO]: <BOI> z[m
-[17:18:30] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[17:19:10] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[17:19:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6563ms or 131 ticks behind
-[17:19:22] [Server thread/WARN]: BOI moved too quickly! -0.8518565685292785,0.0,-10.145259146260628
-[17:19:38] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 93 Entities![m
-[17:19:39] [Server thread/WARN]: BOI moved too quickly! -0.8996493857708785,1.252203340253729,10.147211132662889
-[17:21:17] [Server thread/WARN]: BOI moved too quickly! -9.395809036417887,0.0625,-8.174392331778305
-[17:21:28] [Server thread/WARN]: fmesztro moved too quickly! -9.043757892460292,0.2522033402537289,4.491051231741242
-[17:21:28] [Server thread/WARN]: BOI moved too quickly! -12.04186321894177,2.7531999805212024,-6.406574802902341
-[17:22:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2153ms or 43 ticks behind
-[17:23:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2185ms or 43 ticks behind
-[17:24:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[17:24:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11929ms or 238 ticks behind
-[17:26:35] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[17:27:15] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[17:27:35] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 82 Entities![m
-[17:28:50] [Netty Server IO #2/INFO]: <fmesztro> z[m
-[17:28:52] [Server thread/WARN]: fmesztro was kicked for floating too long!
-[17:28:52] [Server thread/INFO]: fmesztro lost connection: Flying is not enabled on this server
-[17:28:52] [Server thread/INFO]: fmesztro left the game
-[17:28:52] [Server thread/WARN]: handleDisconnection() called twice
-[17:28:58] [Server thread/INFO]: xatixatix issued server command: /kick BOI
-[17:28:58] [Server thread/INFO]: BOI lost connection: Kicked by an operator
-[17:28:58] [Server thread/INFO]: BOI left the game
-[17:28:58] [Server thread/INFO]: [xatixatix: Kicked BOI: Kicked by an operator]
-[17:28:59] [Server thread/WARN]: handleDisconnection() called twice
-[17:28:59] [Server thread/INFO]: fmesztro[/25.47.185.224:60906] logged in with entity id 58508 at ([world]234.5, 75.11357122999864, -37.5)
-[17:32:25] [Server thread/INFO]: BOI[/25.37.59.166:60486] logged in with entity id 65115 at ([world]51.66960633072115, 57.0, -65.45174248739696)
-[17:34:15] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[17:34:55] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[17:35:15] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 73 Entities![m
-[17:41:42] [Server thread/WARN]: BOI moved too quickly! -13.454411567536354,-2.916922182193531,-5.749421439248778
-[17:41:55] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[17:42:35] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[17:42:55] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 95 Entities![m
-[17:44:20] [Server thread/WARN]: BOI moved too quickly! -2.0902287184835657,0.0,9.877947981536437
-[17:49:35] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[17:50:15] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[17:50:35] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 97 Entities![m
-[17:50:37] [Netty Server IO #7/INFO]: <BOI> z[m
-[17:50:41] [Netty Server IO #7/INFO]: <BOI> zZzZz[m
-[17:51:17] [Server thread/INFO]: xatixatix issued server command: /save-on
-[17:54:06] [Server thread/WARN]: fmesztro moved too quickly! -0.2022652129324456,0.9199999868869781,-10.0026660635578
-[17:57:15] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[17:57:55] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[17:58:15] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 87 Entities![m
-[18:02:11] [Server thread/INFO]: xatixatix issued server command: /kick fmesztro
-[18:02:11] [Server thread/INFO]: fmesztro lost connection: Kicked by an operator
-[18:02:11] [Server thread/INFO]: fmesztro left the game
-[18:02:11] [Server thread/INFO]: [xatixatix: Kicked fmesztro: Kicked by an operator]
-[18:02:11] [Server thread/WARN]: handleDisconnection() called twice
-[18:04:55] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[18:05:18] [Server thread/INFO]: fmesztro[/25.47.185.224:60958] logged in with entity id 137528 at ([world]226.49250922241907, 79.5, -24.265168578748593)
-[18:05:35] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[18:05:55] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 87 Entities![m
-[18:06:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
-[18:10:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[18:11:12] [Server thread/INFO]: xatixatix lost connection: Disconnected
-[18:11:12] [Server thread/INFO]: xatixatix left the game
-[18:12:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[18:12:50] [Netty Server IO #0/INFO]: <fmesztro> z[m
-[18:12:59] [Server thread/INFO]: BOI lost connection: Disconnected
-[18:12:59] [Server thread/INFO]: BOI left the game
-[18:13:18] [Server thread/INFO]: BOI[/25.37.59.166:58504] logged in with entity id 159127 at ([world]139.382908189969, 41.0, -234.4186881207119)
-[18:13:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[18:13:39] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 89 Entities![m
-[18:14:03] [Server thread/INFO]: xatixatix[/25.72.77.4:62666] logged in with entity id 161449 at ([world]225.18918247194887, 79.5, -22.149364231257216)
-[18:14:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
-[18:17:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[18:18:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[18:20:25] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[18:21:05] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[18:21:25] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 133 Entities![m
-[18:23:46] [Netty Server IO #3/INFO]: <xatixatix> z[m
-[18:23:46] [Netty Server IO #3/INFO]: <xatixatix> z[m
-[18:23:46] [Netty Server IO #3/INFO]: <xatixatix> z[m
-[18:23:46] [Netty Server IO #3/INFO]: <xatixatix> z[m
-[18:23:57] [Server thread/INFO]: BOI lost connection: Disconnected
-[18:23:57] [Server thread/INFO]: BOI left the game
-[18:24:30] [Server thread/INFO]: BOI[/25.37.59.166:58536] logged in with entity id 184400 at ([world]208.19882770215006, 29.0, -302.88766531334)
-[18:24:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[18:26:59] [Server thread/INFO]: xatixatix lost connection: Disconnected
-[18:26:59] [Server thread/INFO]: xatixatix left the game
-[18:27:16] [Server thread/INFO]: Saving the game (this may take a moment!)
-[18:27:17] [Server thread/INFO]: Saved the game
-[18:28:07] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[18:28:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[18:29:07] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 119 Entities![m
-[18:29:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[18:29:52] [Server thread/INFO]: xatixatix[/25.72.77.4:63049] logged in with entity id 195294 at ([world]224.64102548272712, 79.5, -24.41092372424666)
-[18:29:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[18:30:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6323ms or 126 ticks behind
-[18:32:38] [Server thread/INFO]: xatixatix lost connection: Disconnected
-[18:32:38] [Server thread/INFO]: xatixatix left the game
-[18:35:07] [Netty Server IO #0/INFO]: <fmesztro> z[m
-[18:35:19] [Netty Server IO #0/INFO]: <fmesztro> zz[m
-[18:35:22] [Netty Server IO #0/INFO]: <fmesztro> zzz[m
-[18:35:23] [Netty Server IO #0/INFO]: <fmesztro> zzzz[m
-[18:35:24] [Netty Server IO #0/INFO]: <fmesztro> zzzzz[m
-[18:35:26] [Netty Server IO #0/INFO]: <fmesztro> zzzzzzz[m
-[18:35:26] [Server thread/INFO]: BOI lost connection: Disconnected
-[18:35:27] [Server thread/INFO]: BOI left the game
-[18:35:44] [Server thread/INFO]: BOI[/25.37.59.166:58572] logged in with entity id 204429 at ([world]233.4119072029796, 28.0, -203.75905940207417)
-[18:35:57] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[18:36:02] [Server thread/WARN]: fmesztro moved too quickly! 9.50079339424147,0.0,3.1680941926643946
-[18:36:37] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[18:36:41] [Server thread/INFO]: xatixatix[/25.72.77.4:63071] logged in with entity id 206372 at ([world]226.83451964539032, 93.0, -80.42497038324854)
-[18:36:57] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 89 Entities![m
-[18:38:37] [Server thread/INFO]: fmesztro lost connection: Disconnected
-[18:38:37] [Server thread/INFO]: fmesztro left the game
-[18:38:37] [Server thread/INFO]: BOI lost connection: Disconnected
-[18:38:37] [Server thread/INFO]: BOI left the game
-[18:38:59] [Server thread/INFO]: xatixatix lost connection: Disconnected
-[18:38:59] [Server thread/INFO]: xatixatix left the game
-[18:39:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[18:39:01] [Server thread/INFO]: Stopping the server
-[18:39:01] [Server thread/INFO]: Stopping server
-[18:39:01] [Server thread/INFO]: [ClearLag] Disabling ClearLag v2.9.7
-[18:39:01] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
-[18:39:01] [Server thread/INFO]: Saving players
-[18:39:01] [Server thread/INFO]: Saving worlds
-[18:39:01] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[18:39:01] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
-[18:39:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:00:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27334ms or 546 ticks behind
+[00:00:30] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:00:40] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:00:46] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:00:52] [Server thread/INFO]: xatixatix issued server command: /save-all
+[00:00:56] [Server thread/INFO]: [xatixatix: Saved the game]
+[00:00:56] [Server thread/WARN]: BOI moved too quickly! 12.192565250110789,0.0625,-0.20868707796788755
+[00:01:00] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:01:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30067ms or 601 ticks behind
+[00:01:01] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:01:03] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:01:04] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:01:05] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:01:05] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:01:31] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:01:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25448ms or 508 ticks behind
+[00:02:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20140ms or 402 ticks behind
+[00:02:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21089ms or 421 ticks behind
+[00:03:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17972ms or 359 ticks behind
+[00:03:51] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:03:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18566ms or 371 ticks behind
+[00:04:01] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:04:26] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:04:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26504ms or 530 ticks behind
+[00:05:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30062ms or 601 ticks behind
+[00:06:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29430ms or 588 ticks behind
+[00:06:42] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:06:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27895ms or 557 ticks behind
+[00:07:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17338ms or 346 ticks behind
+[00:07:48] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:08:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19569ms or 391 ticks behind
+[00:08:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17372ms or 347 ticks behind
+[00:09:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24347ms or 486 ticks behind
+[00:09:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18414ms or 368 ticks behind
+[00:09:49] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:10:08] [Server thread/INFO]: xatixatix issued server command: /save-all
+[00:10:09] [Server thread/INFO]: [xatixatix: Saved the game]
+[00:10:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24326ms or 486 ticks behind
+[00:11:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23475ms or 469 ticks behind
+[00:11:30] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[00:11:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20915ms or 418 ticks behind
+[00:11:44] [Server thread/INFO]: xatixatix lost connection: Disconnected
+[00:11:45] [Server thread/INFO]: xatixatix left the game
+[00:11:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2462ms or 49 ticks behind
+[00:12:17] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[00:12:37] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 24 Entities![m
+[00:12:51] [Server thread/INFO]: xatixatix[/25.72.77.4:50722] logged in with entity id 622910 at ([world]-1221.1329879660098, 77.0, 847.8538149131467)
+[00:12:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6531ms or 130 ticks behind
+[00:13:04] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:13:08] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:13:14] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:13:15] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:13:17] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:13:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20167ms or 403 ticks behind
+[00:13:27] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:13:29] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:13:45] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:14:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20468ms or 409 ticks behind
+[00:14:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30678ms or 613 ticks behind
+[00:15:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 34135ms or 682 ticks behind
+[00:15:56] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:16:07] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:16:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28025ms or 560 ticks behind
+[00:16:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17163ms or 343 ticks behind
+[00:17:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15893ms or 317 ticks behind
+[00:18:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27304ms or 546 ticks behind
+[00:18:39] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:18:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22738ms or 454 ticks behind
+[00:19:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27376ms or 547 ticks behind
+[00:19:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16116ms or 322 ticks behind
+[00:20:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22841ms or 456 ticks behind
+[00:21:07] [Netty Server IO #1/INFO]: <xatixatix> zzz[m
+[00:21:07] [Netty Server IO #1/INFO]: <xatixatix> z[m
+[00:21:07] [Netty Server IO #1/INFO]: <xatixatix> z[m
+[00:21:08] [Netty Server IO #1/INFO]: <xatixatix> z[m
+[00:21:08] [Netty Server IO #1/INFO]: <xatixatix> z[m
+[00:21:08] [Netty Server IO #1/INFO]: <xatixatix> z[m
+[00:21:08] [Netty Server IO #1/INFO]: <xatixatix> z[m
+[00:21:09] [Netty Server IO #1/INFO]: <xatixatix> zzz[m
+[00:21:09] [Netty Server IO #1/INFO]: <xatixatix> z[m
+[00:21:09] [Netty Server IO #1/INFO]: <xatixatix> z[m
+[00:21:09] [Netty Server IO #1/INFO]: <xatixatix> z[m
+[00:21:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21305ms or 426 ticks behind
+[00:21:12] [Netty Server IO #1/INFO]: <xatixatix> zz[m
+[00:21:12] [Netty Server IO #1/INFO]: <xatixatix> z[m
+[00:21:13] [Netty Server IO #1/INFO]: <xatixatix> z[m
+[00:21:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22551ms or 451 ticks behind
+[00:22:08] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:22:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15525ms or 310 ticks behind
+[00:22:34] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:22:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14678ms or 293 ticks behind
+[00:22:58] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:23:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16074ms or 321 ticks behind
+[00:23:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14965ms or 299 ticks behind
+[00:24:10] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:24:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17099ms or 341 ticks behind
+[00:24:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18342ms or 366 ticks behind
+[00:25:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13911ms or 278 ticks behind
+[00:25:35] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:25:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14196ms or 283 ticks behind
+[00:26:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25939ms or 518 ticks behind
+[00:26:34] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:26:43] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:27:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 40487ms or 809 ticks behind
+[00:28:05] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:28:13] [Server thread/INFO]: xatixatix issued server command: /save-all
+[00:28:20] [Server thread/INFO]: [xatixatix: Saved the game]
+[00:28:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 41991ms or 839 ticks behind
+[00:29:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20326ms or 406 ticks behind
+[00:29:06] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[00:29:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22324ms or 446 ticks behind
+[00:30:24] [Server thread/INFO]: xatixatix issued server command: /save-all
+[00:30:27] [Server thread/INFO]: [xatixatix: Saved the game]
+[00:30:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 40837ms or 816 ticks behind
+[00:31:01] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[00:31:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16634ms or 332 ticks behind
+[00:31:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16466ms or 329 ticks behind
+[00:31:42] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 408 Entities![m
+[00:32:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16474ms or 329 ticks behind
+[00:32:11] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:32:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20457ms or 409 ticks behind
+[00:33:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18906ms or 378 ticks behind
+[00:33:35] [Server thread/INFO]: xatixatix issued server command: /lagg tps
+[00:33:36] [Server thread/INFO]: xatixatix lost connection: Disconnected
+[00:33:37] [Server thread/INFO]: xatixatix left the game
+[00:33:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11976ms or 239 ticks behind
+[00:39:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[00:40:07] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[00:40:08] [Netty Server IO #7/INFO]: <fmesztro> z[m
+[00:40:27] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 52 Entities![m
+[00:44:27] [Netty Server IO #7/INFO]: <BOI> l[m
+[00:46:56] [Server thread/INFO]: fmesztro issued server command: /save
+[00:47:02] [Server thread/INFO]: fmesztro issued server command: /save-all
+[00:47:03] [Server thread/INFO]: [fmesztro: Saved the game]
+[00:47:07] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[00:47:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[00:48:07] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 49 Entities![m
+[00:54:47] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[00:55:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[00:55:47] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 55 Entities![m
+[01:02:27] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[01:03:07] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[01:03:27] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 54 Entities![m
+[01:05:59] [Netty Server IO #7/INFO]: <fmesztro> eeeeeeeeeeeeeeeeeeeee[m
+[01:06:02] [Netty Server IO #7/INFO]: <fmesztro> e[m
+[01:06:02] [Netty Server IO #7/INFO]: <fmesztro> e[m
+[01:06:02] [Netty Server IO #7/INFO]: <fmesztro> e[m
+[01:06:02] [Netty Server IO #7/INFO]: <fmesztro> e[m
+[01:06:02] [Netty Server IO #7/INFO]: <fmesztro> e[m
+[01:06:03] [Netty Server IO #7/INFO]: <fmesztro> e[m
+[01:06:04] [Netty Server IO #7/INFO]: <fmesztro> eeeeeeeeeeeeeeeeeeeeeeeeeee[m
+[01:06:06] [Netty Server IO #7/INFO]: <fmesztro> e[m
+[01:07:21] [Server thread/INFO]: fmesztro was blown up by Creeper
+[01:07:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3418ms or 68 ticks behind
+[01:07:29] [Server thread/WARN]: fmesztro moved too quickly! -10.012292319588113,0.9000015258789062,1.9877211228899228
+[01:07:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3599ms or 71 ticks behind
+[01:08:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[01:08:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2897ms or 57 ticks behind
+[01:10:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[01:10:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[01:11:19] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 80 Entities![m
+[01:17:16] [Netty Server IO #7/INFO]: <fmesztro> z[m
+[01:17:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[01:18:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[01:18:59] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 81 Entities![m
+[01:25:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[01:26:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[01:26:39] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 68 Entities![m
+[01:33:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[01:33:39] [Server thread/INFO]: BOI issued server command: /save-all
+[01:33:40] [Server thread/INFO]: [BOI: Saved the game]
+[01:33:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[01:34:19] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 75 Entities![m
+[01:40:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[01:41:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[01:41:59] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 150 Entities![m
+[01:45:55] [Server thread/INFO]: fmesztro issued server command: /clearlag:lagg
+[01:46:09] [Server thread/INFO]: fmesztro issued server command: /lagg clear
+[01:48:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[01:49:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[01:49:39] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 54 Entities![m
+[01:50:43] [Netty Server IO #7/INFO]: <fmesztro> z[m
+[01:56:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[01:56:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[01:57:19] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 260 Entities![m
+[02:03:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[02:04:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[02:04:59] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 276 Entities![m
+[02:11:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[02:12:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[02:12:39] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 79 Entities![m
+[02:13:22] [Server thread/WARN]: fmesztro was kicked for floating too long!
+[02:13:22] [Server thread/INFO]: fmesztro lost connection: Flying is not enabled on this server
+[02:13:22] [Server thread/INFO]: fmesztro left the game
+[02:13:22] [Server thread/WARN]: handleDisconnection() called twice
+[02:13:28] [Server thread/INFO]: fmesztro[/25.47.185.224:43716] logged in with entity id 874944 at ([world]224.5, 81.03489977361409, -24.5)
+[02:13:56] [Server thread/INFO]: BOI issued server command: /save-all
+[02:13:56] [Server thread/INFO]: [BOI: Saved the game]
+[02:19:19] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[02:19:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[02:20:19] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 55 Entities![m
+[02:26:59] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[02:27:39] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[02:27:59] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 80 Entities![m
+[02:31:16] [Server thread/INFO]: BOI issued server command: /save-all
+[02:31:17] [Server thread/INFO]: [BOI: Saved the game]
+[02:32:32] [Server thread/INFO]: BOI issued server command: /save-all
+[02:32:33] [Server thread/INFO]: [BOI: Saved the game]
+[02:33:23] [Server thread/INFO]: BOI issued server command: /save-all
+[02:33:23] [Server thread/INFO]: [BOI: Saved the game]
+[02:33:50] [Server thread/INFO]: BOI issued server command: /stop
+[02:33:50] [Server thread/INFO]: [BOI: Stopping the server]
+[02:33:51] [Server thread/INFO]: Stopping server
+[02:33:51] [Server thread/INFO]: [ClearLag] Disabling ClearLag v2.9.7
+[02:33:51] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[02:33:51] [Server thread/INFO]: Saving players
+[02:33:51] [Server thread/INFO]: BOI lost connection: Server closed
+[02:33:51] [Server thread/INFO]: BOI left the game
+[02:33:51] [Server thread/INFO]: fmesztro lost connection: Server closed
+[02:33:51] [Server thread/INFO]: fmesztro left the game
+[02:33:51] [Server thread/INFO]: Saving worlds
+[02:33:51] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[02:33:51] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[02:33:51] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
