@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2018-12-24 13:53:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2018-12-22 14:04:11 +0100"
@@ -494,6 +500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2018-12-24 14:16:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2018-12-22 13:09:38 +0100"
@@ -554,13 +566,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-12-22 14:04:11 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2018-12-22 14:04:11 +0100"
     },
@@ -1019,13 +1031,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-12-23 20:34:52 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-12-23 20:34:52 +0100"
     },
@@ -1052,6 +1064,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2018-12-22 20:21:07 +0100",
+      "minecraft:zombie_pigman": "2018-12-24 15:41:42 +0100",
       "minecraft:silverfish": "2018-12-23 14:16:00 +0100",
       "minecraft:magma_cube": "2018-12-22 18:38:20 +0100",
       "minecraft:zombie": "2018-12-22 19:47:11 +0100",
@@ -1297,6 +1310,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2018-12-22 19:49:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2018-12-24 14:08:24 +0100"
     },
     "done": true
   },
@@ -1630,6 +1649,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2018-12-24 14:47:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2018-12-22 13:04:40 +0100"
@@ -1828,6 +1853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2018-12-24 14:47:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2018-12-22 12:51:44 +0100"
@@ -1873,8 +1904,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2018-12-23 21:16:39 +0100",
-      "minecraft:forest": "2018-12-22 12:54:39 +0100",
       "minecraft:mountains": "2018-12-22 13:14:15 +0100",
+      "minecraft:forest": "2018-12-22 12:54:39 +0100",
       "minecraft:taiga": "2018-12-22 13:52:34 +0100",
       "minecraft:desert_hills": "2018-12-23 21:26:43 +0100",
       "minecraft:deep_cold_ocean": "2018-12-23 21:16:36 +0100",
@@ -1887,8 +1918,8 @@
       "minecraft:badlands": "2018-12-22 18:19:53 +0100",
       "minecraft:beach": "2018-12-23 20:00:56 +0100",
       "minecraft:dark_forest": "2018-12-22 17:59:22 +0100",
-      "minecraft:river": "2018-12-22 13:52:47 +0100",
       "minecraft:lukewarm_ocean": "2018-12-23 21:40:59 +0100",
+      "minecraft:river": "2018-12-22 13:52:47 +0100",
       "minecraft:birch_forest_hills": "2018-12-22 18:09:54 +0100",
       "minecraft:wooded_mountains": "2018-12-22 13:24:21 +0100",
       "minecraft:wooded_hills": "2018-12-22 13:09:40 +0100",
