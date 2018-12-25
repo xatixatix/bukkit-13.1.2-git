@@ -584,13 +584,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2018-12-22 14:04:11 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-12-22 14:04:11 +0100"
     },
@@ -1089,8 +1089,10 @@
     "criteria": {
       "minecraft:skeleton": "2018-12-22 20:21:07 +0100",
       "minecraft:zombie_pigman": "2018-12-24 15:41:42 +0100",
+      "minecraft:cave_spider": "2018-12-25 15:59:24 +0100",
       "minecraft:silverfish": "2018-12-23 14:16:00 +0100",
       "minecraft:magma_cube": "2018-12-22 18:38:20 +0100",
+      "minecraft:spider": "2018-12-25 15:16:03 +0100",
       "minecraft:zombie": "2018-12-22 19:47:11 +0100",
       "minecraft:creeper": "2018-12-22 13:53:20 +0100"
     },
@@ -1556,6 +1558,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2018-12-22 19:49:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2018-12-25 14:44:48 +0100"
     },
     "done": true
   },
@@ -2036,6 +2044,12 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2018-12-22 13:04:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2018-12-25 15:16:03 +0100"
     },
     "done": true
   },

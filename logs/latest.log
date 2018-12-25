@@ -1,16 +1,202 @@
-[00:08:56] [Netty Server IO #2/INFO]: <xatixatix> zz[m
-[00:08:57] [Netty Server IO #1/INFO]: <fmesztro> zzz[m
-[00:09:51] [Server thread/INFO]: xatixatix issued server command: /save-all
-[00:09:52] [Server thread/INFO]: [xatixatix: Saved the game]
-[00:10:35] [Server thread/INFO]: xatixatix lost connection: Disconnected
-[00:10:35] [Server thread/INFO]: xatixatix left the game
-[00:10:40] [Server thread/INFO]: fmesztro lost connection: Disconnected
-[00:10:40] [Server thread/INFO]: fmesztro left the game
-[00:10:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
-[00:10:45] [Server thread/INFO]: Stopping the server
-[00:10:45] [Server thread/INFO]: Stopping server
-[00:10:45] [Server thread/INFO]: Saving players
-[00:10:45] [Server thread/INFO]: Saving worlds
-[00:10:45] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
-[00:10:45] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[00:10:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[13:10:34] [main/INFO]: Loaded 0 recipes
+[13:10:34] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[13:10:35] [Server thread/INFO]: Loading properties
+[13:10:35] [Server thread/INFO]: Default game type: SURVIVAL
+[13:10:35] [Server thread/INFO]: Generating keypair
+[13:10:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:10:35] [Server thread/INFO]: Using default channel type
+[13:10:36] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-a4c555b (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
+[13:10:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:10:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:10:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:10:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:10:36] [Server thread/INFO]: Preparing level "world"
+[13:10:36] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[13:10:37] [Server thread/INFO]: Loaded 524 recipes
+[13:10:39] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: -692263376159001332)
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 4%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 8%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 12%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 16%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 20%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 24%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 28%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 32%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 36%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 40%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 44%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 48%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 52%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 56%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 60%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 64%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 68%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 72%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 76%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 80%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 84%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 88%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 92%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 96%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 100%
+[13:10:39] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: -692263376159001332)
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 4%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 8%
+[13:10:39] [Server thread/INFO]: Preparing spawn area: 12%
+[13:10:40] [Server thread/INFO]: Preparing spawn area: 16%
+[13:10:40] [Server thread/INFO]: Preparing spawn area: 20%
+[13:10:40] [Server thread/INFO]: Preparing spawn area: 24%
+[13:10:40] [Server thread/INFO]: Preparing spawn area: 28%
+[13:10:40] [Server thread/INFO]: Preparing spawn area: 32%
+[13:10:40] [Server thread/INFO]: Preparing spawn area: 36%
+[13:10:40] [Server thread/INFO]: Preparing spawn area: 40%
+[13:10:40] [Server thread/INFO]: Preparing spawn area: 44%
+[13:10:40] [Server thread/INFO]: Preparing spawn area: 48%
+[13:10:40] [Server thread/INFO]: Preparing spawn area: 52%
+[13:10:40] [Server thread/INFO]: Preparing spawn area: 56%
+[13:10:40] [Server thread/INFO]: Preparing spawn area: 60%
+[13:10:41] [Server thread/INFO]: Preparing spawn area: 64%
+[13:10:41] [Server thread/INFO]: Preparing spawn area: 68%
+[13:10:41] [Server thread/INFO]: Preparing spawn area: 72%
+[13:10:41] [Server thread/INFO]: Preparing spawn area: 76%
+[13:10:41] [Server thread/INFO]: Preparing spawn area: 80%
+[13:10:41] [Server thread/INFO]: Preparing spawn area: 84%
+[13:10:41] [Server thread/INFO]: Preparing spawn area: 88%
+[13:10:41] [Server thread/INFO]: Preparing spawn area: 92%
+[13:10:41] [Server thread/INFO]: Preparing spawn area: 96%
+[13:10:41] [Server thread/INFO]: Preparing spawn area: 100%
+[13:10:41] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -692263376159001332)
+[13:10:41] [Server thread/INFO]: Preparing spawn area: 4%
+[13:10:41] [Server thread/INFO]: Preparing spawn area: 8%
+[13:10:41] [Server thread/INFO]: Preparing spawn area: 12%
+[13:10:42] [Server thread/INFO]: Preparing spawn area: 16%
+[13:10:42] [Server thread/INFO]: Preparing spawn area: 20%
+[13:10:42] [Server thread/INFO]: Preparing spawn area: 24%
+[13:10:42] [Server thread/INFO]: Preparing spawn area: 28%
+[13:10:42] [Server thread/INFO]: Preparing spawn area: 32%
+[13:10:42] [Server thread/INFO]: Preparing spawn area: 36%
+[13:10:42] [Server thread/INFO]: Preparing spawn area: 40%
+[13:10:42] [Server thread/INFO]: Preparing spawn area: 44%
+[13:10:42] [Server thread/INFO]: Preparing spawn area: 48%
+[13:10:42] [Server thread/INFO]: Preparing spawn area: 52%
+[13:10:42] [Server thread/INFO]: Preparing spawn area: 56%
+[13:10:42] [Server thread/INFO]: Preparing spawn area: 60%
+[13:10:42] [Server thread/INFO]: Preparing spawn area: 64%
+[13:10:42] [Server thread/INFO]: Preparing spawn area: 68%
+[13:10:42] [Server thread/INFO]: Preparing spawn area: 72%
+[13:10:42] [Server thread/INFO]: Preparing spawn area: 76%
+[13:10:42] [Server thread/INFO]: Preparing spawn area: 80%
+[13:10:42] [Server thread/INFO]: Preparing spawn area: 84%
+[13:10:42] [Server thread/INFO]: Preparing spawn area: 88%
+[13:10:42] [Server thread/INFO]: Preparing spawn area: 92%
+[13:10:42] [Server thread/INFO]: Preparing spawn area: 96%
+[13:10:42] [Server thread/INFO]: Preparing spawn area: 100%
+[13:10:42] [Server thread/INFO]: Time elapsed: 3864 ms
+[13:10:42] [Server thread/WARN]: Server permissions file permissions.yml is not valid YAML.
+java.lang.ClassCastException: java.lang.String cannot be cast to java.util.Map
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.loadCustomPermissions(CraftServer.java:823) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.enablePlugins(CraftServer.java:355) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.l(MinecraftServer.java:575) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:537) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:415) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.DedicatedServer.init(DedicatedServer.java:270) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:680) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[13:10:42] [Server thread/INFO]: Done (6.605s)! For help, type "help"
+[13:10:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4142ms or 82 ticks behind
+[13:11:47] [Server thread/INFO]: [Server] szixegybalfasz
+[13:12:13] [Server thread/INFO]: xatixatix[/25.72.77.4:64491] logged in with entity id 90 at ([world]222.3810304761791, 79.5, -22.319437532820068)
+[13:12:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16250ms or 325 ticks behind
+[13:15:07] [Server thread/INFO]: BOI[/25.37.59.166:50393] logged in with entity id 6134 at ([world]235.2528905740552, 80.0, -26.04300833030374)
+[13:17:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8648ms or 172 ticks behind
+[13:17:46] [Server thread/WARN]: BOI moved too quickly! -28.746132949027043,-4.419999986886978,4.754408131638421
+[13:17:46] [Server thread/WARN]: BOI moved too quickly! -28.645195105663447,-4.419999986886978,4.486615534119718
+[13:17:46] [Server thread/WARN]: BOI moved too quickly! -28.645195105663447,-4.419999986886978,4.486615534119718
+[13:34:32] [Server thread/INFO]: xatixatix lost connection: Disconnected
+[13:34:33] [Server thread/INFO]: xatixatix left the game
+[13:34:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3090ms or 61 ticks behind
+[13:37:57] [Server thread/INFO]: xatixatix[/25.72.77.4:64979] logged in with entity id 35929 at ([world_nether]21.30000001192093, 96.0, 47.59183403506597)
+[13:37:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6422ms or 128 ticks behind
+[14:01:39] [Server thread/INFO]: xatixatix lost connection: Disconnected
+[14:01:39] [Server thread/INFO]: xatixatix left the game
+[14:01:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2584ms or 51 ticks behind
+[14:20:46] [Server thread/WARN]: BOI moved too quickly! 4.6451469395152,2.0,-8.719406019781928
+[14:24:32] [Server thread/INFO]: Saving the game (this may take a moment!)
+[14:24:33] [Server thread/INFO]: Saved the game
+[14:24:45] [Server thread/INFO]: BOI lost connection: Disconnected
+[14:24:45] [Server thread/INFO]: BOI left the game
+[14:24:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[14:25:01] [Server thread/INFO]: BOI[/25.37.59.166:50503] logged in with entity id 104527 at ([world]347.8175930284401, 21.0, -214.43712104359216)
+[14:27:10] [Server thread/INFO]: xatixatix[/25.72.77.4:49425] logged in with entity id 106176 at ([world_nether]4.300000011920929, 17.0, 57.842021833643855)
+[14:27:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5510ms or 110 ticks behind
+[14:28:20] [Server thread/WARN]: BOI moved too quickly! -1.135417578284148,-0.41999998688697815,13.841942578300973
+[14:32:47] [Server thread/WARN]: BOI moved too quickly! 11.67682523795952,0.0,3.4332185644992137
+[14:35:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4077ms or 81 ticks behind
+[14:35:48] [Netty Server IO #7/INFO]: <xatixatix> zzz[m
+[14:35:48] [Netty Server IO #7/INFO]: <xatixatix> z[m
+[14:35:48] [Netty Server IO #7/INFO]: <xatixatix> z[m
+[14:44:48] [Server thread/INFO]: xatixatix has made the advancement [Not Today, Thank You]
+[14:48:23] [Netty Server IO #7/INFO]: <xatixatix> zzz[m
+[14:48:23] [Netty Server IO #7/INFO]: <xatixatix> z[m
+[14:48:23] [Netty Server IO #7/INFO]: <xatixatix> z[m
+[15:08:07] [Server thread/WARN]: xatixatix moved wrongly!
+[15:14:44] [Netty Server IO #7/INFO]: <xatixatix> zzz[m
+[15:15:44] [Server thread/WARN]: BOI moved too quickly! 11.117367980183076,-10.964159374955443,0.0382580038276501
+[15:32:24] [Server thread/INFO]: BOI lost connection: Disconnected
+[15:32:24] [Server thread/INFO]: BOI left the game
+[15:32:34] [Netty Server IO #7/INFO]: <xatixatix> zz[m
+[15:36:12] [Server thread/INFO]: xatixatix lost connection: Disconnected
+[15:36:12] [Server thread/INFO]: xatixatix left the game
+[15:36:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[15:39:57] [Server thread/INFO]: xatixatix[/25.72.77.4:49631] logged in with entity id 255231 at ([world]240.32511550088788, 75.0, -37.75692657538938)
+[15:39:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4871ms or 97 ticks behind
+[15:43:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[15:43:30] [Netty Server IO #1/INFO]: <xatixatix> zzz[m
+[15:44:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[15:44:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2705ms or 54 ticks behind
+[15:45:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2287ms or 45 ticks behind
+[15:45:55] [Server thread/WARN]: Horse moved wrongly!
+[15:46:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3430ms or 68 ticks behind
+[15:46:03] [Server thread/WARN]: Horse (vehicle of xatixatix) moved too quickly! -19.334405860098173,-1.5994725196157447,-5.692449200829387
+[15:46:03] [Server thread/WARN]: Horse (vehicle of xatixatix) moved too quickly! -19.84245245943214,-1.6763045211111063,-5.946188594565555
+[15:46:03] [Server thread/WARN]: Horse (vehicle of xatixatix) moved too quickly! -20.13791756071157,-1.8269259782787515,-6.0937578557656025
+[15:46:03] [Server thread/WARN]: Horse (vehicle of xatixatix) moved too quickly! -20.425032840958693,-2.0484148300533462,-6.2371584973261065
+[15:46:03] [Server thread/WARN]: Horse (vehicle of xatixatix) moved too quickly! -20.70470175059461,-2.337964728933102,-6.376841563784922
+[15:46:03] [Server thread/WARN]: Horse (vehicle of xatixatix) moved too quickly! -20.97772998672815,-2.5994725196157447,-6.513209296672514
+[15:46:03] [Server thread/WARN]: Horse (vehicle of xatixatix) moved too quickly! -21.45741148334821,-2.5994725196157447,-6.752805728310278
+[15:46:03] [Server thread/WARN]: Horse (vehicle of xatixatix) moved too quickly! -21.95027439699129,-2.5994725196157447,-6.9989926857859075
+[15:46:03] [Server thread/WARN]: Horse (vehicle of xatixatix) moved too quickly! -22.450190424074208,-2.5994725196157447,-7.2487061022364685
+[15:46:03] [Server thread/WARN]: Horse (vehicle of xatixatix) moved too quickly! -22.953880431534913,-2.5994725196157447,-7.500306456574506
+[15:46:03] [Server thread/WARN]: Horse (vehicle of xatixatix) moved too quickly! -23.459589820650763,-2.5994725196157447,-7.752916473754652
+[15:46:03] [Server thread/WARN]: Horse (vehicle of xatixatix) moved too quickly! -23.9663797406281,-2.5994725196157447,-8.006066741391109
+[15:46:03] [Server thread/WARN]: Horse (vehicle of xatixatix) moved too quickly! -24.473747831125934,-2.5994725196157447,-8.259506086275309
+[15:46:03] [Server thread/WARN]: Horse (vehicle of xatixatix) moved too quickly! -24.906960222947305,-2.5994725196157447,-8.61058316443463
+[15:46:03] [Server thread/WARN]: Horse (vehicle of xatixatix) moved too quickly! -25.30049337891205,-2.5994725196157447,-9.013904246983088
+[15:46:03] [Server thread/WARN]: Horse (vehicle of xatixatix) moved too quickly! -25.672794966888546,-2.5994725196157447,-9.445180054647096
+[15:46:03] [Server thread/WARN]: Horse (vehicle of xatixatix) moved too quickly! -26.03373596614631,-2.5994725196157447,-9.891413878363352
+[15:46:03] [Server thread/WARN]: Horse (vehicle of xatixatix) moved too quickly! -26.388598140886415,-2.5994725196157447,-10.345651438238491
+[15:46:03] [Server thread/WARN]: Horse (vehicle of xatixatix) moved too quickly! -26.74020765782575,-2.5994725196157447,-10.804171637754976
+[15:46:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6534ms or 130 ticks behind
+[15:46:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4001ms or 80 ticks behind
+[15:47:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4018ms or 80 ticks behind
+[15:47:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6594ms or 131 ticks behind
+[15:47:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[15:47:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2749ms or 54 ticks behind
+[15:49:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[15:49:57] [Server thread/WARN]: Horse moved wrongly!
+[15:53:17] [Server thread/WARN]: Horse moved wrongly!
+[16:05:14] [Netty Server IO #1/INFO]: <xatixatix> zzz[m
+[16:09:24] [Server thread/WARN]: Horse moved wrongly!
+[16:09:24] [Server thread/WARN]: Horse moved wrongly!
+[16:09:24] [Server thread/WARN]: Horse moved wrongly!
+[16:16:29] [Netty Server IO #1/INFO]: <xatixatix> zzz[m
+[16:18:46] [Server thread/INFO]: xatixatix lost connection: Disconnected
+[16:18:46] [Server thread/INFO]: xatixatix left the game
+[16:18:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[16:18:51] [Server thread/INFO]: Stopping the server
+[16:18:51] [Server thread/INFO]: Stopping server
+[16:18:51] [Server thread/INFO]: Saving players
+[16:18:51] [Server thread/INFO]: Saving worlds
+[16:18:51] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[16:18:51] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[16:18:51] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
