@@ -1956,8 +1956,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2018-12-23 21:16:39 +0100",
-      "minecraft:mountains": "2018-12-22 13:14:15 +0100",
       "minecraft:forest": "2018-12-22 12:54:39 +0100",
+      "minecraft:mountains": "2018-12-22 13:14:15 +0100",
       "minecraft:taiga": "2018-12-22 13:52:34 +0100",
       "minecraft:desert_hills": "2018-12-23 21:26:43 +0100",
       "minecraft:deep_cold_ocean": "2018-12-23 21:16:36 +0100",
@@ -1970,8 +1970,8 @@
       "minecraft:badlands": "2018-12-22 18:19:53 +0100",
       "minecraft:beach": "2018-12-23 20:00:56 +0100",
       "minecraft:dark_forest": "2018-12-22 17:59:22 +0100",
-      "minecraft:lukewarm_ocean": "2018-12-23 21:40:59 +0100",
       "minecraft:river": "2018-12-22 13:52:47 +0100",
+      "minecraft:lukewarm_ocean": "2018-12-23 21:40:59 +0100",
       "minecraft:birch_forest_hills": "2018-12-22 18:09:54 +0100",
       "minecraft:wooded_mountains": "2018-12-22 13:24:21 +0100",
       "minecraft:wooded_hills": "2018-12-22 13:09:40 +0100",

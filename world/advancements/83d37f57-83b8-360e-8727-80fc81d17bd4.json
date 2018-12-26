@@ -876,6 +876,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2018-12-26 01:33:59 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2018-12-23 21:12:34 +0100"
@@ -1091,6 +1097,7 @@
       "minecraft:skeleton": "2018-12-23 14:25:42 +0100",
       "minecraft:zombie_pigman": "2018-12-24 00:36:40 +0100",
       "minecraft:cave_spider": "2018-12-25 20:35:10 +0100",
+      "minecraft:silverfish": "2018-12-26 00:45:16 +0100",
       "minecraft:spider": "2018-12-23 14:27:00 +0100",
       "minecraft:zombie": "2018-12-23 14:25:44 +0100",
       "minecraft:creeper": "2018-12-23 20:50:07 +0100",
@@ -1275,6 +1282,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2018-12-22 15:59:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2018-12-25 21:52:11 +0100"
     },
     "done": true
   },
@@ -1910,8 +1923,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2018-12-22 12:52:18 +0100",
       "minecraft:mountains": "2018-12-22 13:28:17 +0100",
+      "minecraft:forest": "2018-12-22 12:52:18 +0100",
       "minecraft:taiga": "2018-12-22 15:15:26 +0100",
       "minecraft:taiga_hills": "2018-12-23 14:23:30 +0100",
       "minecraft:desert": "2018-12-22 15:20:14 +0100",
