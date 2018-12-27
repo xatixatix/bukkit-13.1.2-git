@@ -1,0 +1,8 @@
+loops:
+  save:
+    command: save-all
+    time: 1M
+  anotherCommand:
+    command: say the 'command' value deterimines the command sent. The 'time' tag
+      controls the delay between repeats
+    time: 1.5H

@@ -539,6 +539,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2018-12-23 14:25:42 +0100",
+      "minecraft:phantom": "2018-12-27 20:34:08 +0100",
       "minecraft:zombie_pigman": "2018-12-24 00:36:40 +0100",
       "minecraft:ghast": "2018-12-26 23:08:08 +0100",
       "minecraft:cave_spider": "2018-12-25 20:35:10 +0100",
@@ -2088,6 +2089,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2018-12-22 15:33:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2018-12-27 18:48:36 +0100"
     },
     "done": true
   },
