@@ -1,116 +1,142 @@
-[01:13:40] [Server thread/INFO]: BOI issued server command: /save-all
-[01:13:40] [Server thread/INFO]: [BOI: Saved the game]
-[01:19:03] [Server thread/INFO]: fmesztro was shot by Skeleton
-[01:37:45] [Server thread/INFO]: fmesztro tried to swim in lava
-[01:37:55] [Server thread/INFO]: fmesztro lost connection: Disconnected
-[01:37:55] [Server thread/INFO]: fmesztro left the game
-[01:38:38] [Server thread/INFO]: fmesztro[/25.47.185.224:53772] logged in with entity id 812070 at ([world]249.69999998807907, 10.407560849104495, 488.41650816073525)
-[01:43:27] [Server thread/INFO]: fmesztro was slain by Zombie
-[01:57:28] [Server thread/INFO]: fmesztro was shot by Skeleton
-[01:59:30] [Server thread/INFO]: BOI lost connection: Disconnected
-[01:59:30] [Server thread/INFO]: BOI left the game
-[01:59:59] [Server thread/INFO]: BOI[/25.37.59.166:56116] logged in with entity id 850088 at ([world]214.5287609294995, 47.0, 491.0822030156246)
-[02:11:08] [Netty Server IO #6/INFO]: <fmesztro> itt vagy?[m
-[02:12:14] [Netty Server IO #0/INFO]: <BOI> jaja[m
-[02:12:17] [Netty Server IO #6/INFO]: <fmesztro> dc?[m
-[02:12:26] [Netty Server IO #0/INFO]: <BOI> nemtom miarák van[m
-[02:12:31] [Netty Server IO #0/INFO]: <BOI> dc szarakodik[m
-[02:12:39] [Netty Server IO #6/INFO]: <fmesztro> hívásban?[m
-[02:12:54] [Netty Server IO #6/INFO]: <fmesztro> nem jó bazdmeg[m
-[02:13:05] [Netty Server IO #6/INFO]: <fmesztro> ts?[m
-[02:13:24] [Server thread/INFO]: BOI issued server command: /save-all
-[02:13:24] [Server thread/INFO]: [BOI: Saved the game]
-[02:13:30] [Netty Server IO #0/INFO]: <BOI> vájá[m
-[02:13:34] [Netty Server IO #0/INFO]: <BOI> neke dis szar a dc?[m
-[02:13:40] [Netty Server IO #6/INFO]: <fmesztro> aha[m
-[02:13:46] [Netty Server IO #6/INFO]: <fmesztro> szerverileg fos[m
-[02:13:56] [Netty Server IO #0/INFO]: <BOI> akko jo[m
-[02:14:03] [Netty Server IO #6/INFO]: <fmesztro> faszmó[m
-[02:14:09] [Netty Server IO #0/INFO]: <BOI> jovok ts[m
-[02:14:18] [Netty Server IO #6/INFO]: <fmesztro> írjá ip[m
-[02:16:03] [Netty Server IO #0/INFO]: <BOI> utalom a ts-t[m
-[02:16:08] [Netty Server IO #0/INFO]: <BOI> szar az egesz[m
-[02:16:18] [Netty Server IO #6/INFO]: <fmesztro> jobb mint ha nem lenne[m
-[02:18:25] [Netty Server IO #0/INFO]: <BOI> keress mar egy servert[m
-[02:19:20] [Netty Server IO #6/INFO]: <fmesztro> hallod[m
-[02:19:32] [Netty Server IO #6/INFO]: <fmesztro> itt pittyog nekem ez a gfeci discord[m
-[02:20:29] [Netty Server IO #0/INFO]: <BOI> nekem meg frissit a ts -.-[m
-[02:23:30] [Netty Server IO #6/INFO]: <fmesztro> nekem meg fel kell rakni[m
-[02:28:45] [Netty Server IO #6/INFO]: <fmesztro> vicc ez az egész bazdmeg[m
-[02:29:19] [Netty Server IO #0/INFO]: <BOI> na miaz[m
-[02:29:29] [Netty Server IO #6/INFO]: <fmesztro> nem tudom felrakni ezt a gecit[m
-[02:30:10] [Netty Server IO #6/INFO]: <fmesztro> el akarja fogadtatni ezt a fost de bazdmeg nem lehet[m
-[02:30:58] [Netty Server IO #0/INFO]: <BOI> kurva jo[m
-[02:34:09] [Netty Server IO #6/INFO]: <fmesztro> felraktam[m
-[02:34:12] [Netty Server IO #6/INFO]: <fmesztro> ip?[m
-[02:34:30] [Netty Server IO #0/INFO]: <BOI> lattam[m
-[02:34:33] [Netty Server IO #0/INFO]: <BOI> baszo[m
-[02:34:39] [Netty Server IO #0/INFO]: <BOI> attam könyveket[m
-[02:34:53] [Netty Server IO #6/INFO]: <fmesztro> köszi[m
-[02:35:00] [Netty Server IO #6/INFO]: <fmesztro> ezek szarok[m
-[02:35:00] [Netty Server IO #0/INFO]: <BOI> lecsapok isten kezével[m
-[02:35:12] [Netty Server IO #6/INFO]: <fmesztro> írj ip[m
-[02:35:18] [Netty Server IO #0/INFO]: <BOI> ppill[m
-[02:35:19] [Server thread/INFO]: BOI lost connection: Disconnected
-[02:35:19] [Server thread/INFO]: BOI left the game
-[02:36:14] [Server thread/INFO]: BOI[/25.37.59.166:56233] logged in with entity id 928029 at ([world]223.30000001192093, 80.0, -82.06738757466697)
-[02:36:18] [Netty Server IO #2/INFO]: <BOI> ok[m
-[02:36:25] [Netty Server IO #2/INFO]: <BOI> hogy a faszba mukodik a ts[m
-[02:36:44] [Netty Server IO #6/INFO]: <fmesztro> csatlakozol egy szerverhez aztán belépsz egy szobába[m
-[02:36:50] [Netty Server IO #2/INFO]: <BOI> ok[m
-[02:37:34] [Netty Server IO #6/INFO]: <fmesztro> hallod[m
-[02:37:43] [Netty Server IO #6/INFO]: <fmesztro> amit alapból beír[m
-[02:37:48] [Netty Server IO #6/INFO]: <fmesztro> arra csatlakozz[m
-[02:37:55] [Netty Server IO #2/INFO]: <BOI> 37.221.209.97:10210[m
-[02:38:00] [Netty Server IO #2/INFO]: <BOI> nemtom miez[m
-[02:38:02] [Netty Server IO #6/INFO]: <fmesztro> aztán ott lesz egy fasz nevû szoba[m
-[02:38:05] [Netty Server IO #2/INFO]: <BOI> de biztos az[m
-[02:38:06] [Netty Server IO #6/INFO]: <fmesztro> fasz a jelszó[m
-[02:38:56] [Netty Server IO #2/INFO]: <BOI> monjd ip-t[m
-[02:39:02] [Netty Server IO #2/INFO]: <BOI> mer nekem mar nincs ott az a aszar[m
-[02:39:46] [Netty Server IO #6/INFO]: <fmesztro> voice.teamspeak.com[m
-[02:40:35] [Netty Server IO #6/INFO]: <fmesztro> voice.teamspeak.com[m
-[02:40:37] [Netty Server IO #6/INFO]: <fmesztro> voice.teamspeak.com[m
-[02:40:38] [Netty Server IO #6/INFO]: <fmesztro> voice.teamspeak.com[m
-[02:40:38] [Netty Server IO #6/INFO]: <fmesztro> voice.teamspeak.com[m
-[02:40:39] [Netty Server IO #6/INFO]: <fmesztro> voice.teamspeak.com[m
-[02:40:39] [Netty Server IO #6/INFO]: <fmesztro> voice.teamspeak.com[m
-[02:40:40] [Netty Server IO #6/INFO]: <fmesztro> voice.teamspeak.com[m
-[02:40:40] [Netty Server IO #6/INFO]: <fmesztro> voice.teamspeak.com[m
-[02:40:41] [Netty Server IO #6/INFO]: <fmesztro> voice.teamspeak.com[m
-[02:41:06] [Netty Server IO #2/INFO]: <BOI> fos[m
-[02:41:49] [Netty Server IO #6/INFO]: <fmesztro> akkor[m
-[02:41:53] [Netty Server IO #6/INFO]: <fmesztro> mondj ip[m
-[02:41:56] [Netty Server IO #6/INFO]: <fmesztro> fb-on[m
-[02:57:15] [Netty Server IO #6/INFO]: <fmesztro> zzz[m
-[03:23:54] [Server thread/INFO]: fmesztro was blown up by Creeper
-[03:38:13] [Netty Server IO #2/INFO]: <BOI> zzzzzzzzzzzz[m
-[03:39:58] [Server thread/INFO]: fmesztro was shot by Skeleton
-[03:40:01] [Server thread/WARN]: fmesztro was kicked for floating too long!
-[03:40:01] [Server thread/INFO]: fmesztro lost connection: Flying is not enabled on this server
-[03:40:01] [Server thread/INFO]: fmesztro left the game
-[03:40:02] [Server thread/WARN]: handleDisconnection() called twice
-[03:40:05] [Server thread/INFO]: fmesztro[/25.47.185.224:54630] logged in with entity id 1204843 at ([world]141.89263127957423, 63.17896115664538, -5.325034715135827)
-[03:41:46] [Server thread/INFO]: fmesztro was shot by Skeleton
-[03:50:02] [Netty Server IO #2/INFO]: <BOI> zZzZzZzZz[m
-[04:08:03] [Netty Server IO #3/INFO]: <fmesztro> tarmac[m
-[04:13:11] [Netty Server IO #3/INFO]: <fmesztro> zzzzzz[m
-[04:27:04] [Netty Server IO #3/INFO]: <fmesztro> zz[m
-[04:27:05] [Netty Server IO #3/INFO]: <fmesztro> zz[m
-[04:30:01] [Server thread/INFO]: fmesztro has made the advancement [Tactical Fishing]
-[04:30:44] [Server thread/INFO]: BOI has made the advancement [Tactical Fishing]
-[04:38:15] [Netty Server IO #3/INFO]: <fmesztro> zzz[m
-[05:25:34] [Netty Server IO #3/INFO]: <fmesztro> zzz[m
-[05:34:45] [Server thread/INFO]: BOI issued server command: /save-all
-[05:34:45] [Server thread/INFO]: [BOI: Saved the game]
-[05:54:56] [Server thread/INFO]: fmesztro lost connection: Disconnected
-[05:54:57] [Server thread/INFO]: fmesztro left the game
-[05:55:05] [Server thread/INFO]: BOI lost connection: Disconnected
-[05:55:05] [Server thread/INFO]: BOI left the game
-[05:55:34] [Server thread/INFO]: Stopping the server
-[05:55:34] [Server thread/INFO]: Stopping server
-[05:55:34] [Server thread/INFO]: Saving players
-[05:55:34] [Server thread/INFO]: Saving worlds
-[05:55:34] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[05:55:34] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[05:55:34] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[17:07:23] [main/INFO]: Loaded 0 recipes
+[17:07:23] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[17:07:23] [Server thread/INFO]: Loading properties
+[17:07:23] [Server thread/INFO]: Default game type: SURVIVAL
+[17:07:23] [Server thread/INFO]: Generating keypair
+[17:07:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:07:23] [Server thread/INFO]: Using default channel type
+[17:07:24] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-a4c555b (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
+[17:07:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:07:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:07:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:07:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:07:24] [Server thread/INFO]: Preparing level "world"
+[17:07:24] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[17:07:25] [Server thread/INFO]: Loaded 524 recipes
+[17:07:27] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: -692263376159001332)
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 4%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 8%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 12%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 16%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 20%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 24%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 28%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 32%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 36%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 40%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 44%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 48%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 52%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 56%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 60%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 64%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 68%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 72%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 76%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 80%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 84%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 88%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 92%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 96%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 100%
+[17:07:27] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: -692263376159001332)
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 4%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 8%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 12%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 16%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 20%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 24%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 28%
+[17:07:27] [Server thread/INFO]: Preparing spawn area: 32%
+[17:07:28] [Server thread/INFO]: Preparing spawn area: 36%
+[17:07:28] [Server thread/INFO]: Preparing spawn area: 40%
+[17:07:28] [Server thread/INFO]: Preparing spawn area: 44%
+[17:07:28] [Server thread/INFO]: Preparing spawn area: 48%
+[17:07:28] [Server thread/INFO]: Preparing spawn area: 52%
+[17:07:28] [Server thread/INFO]: Preparing spawn area: 56%
+[17:07:28] [Server thread/INFO]: Preparing spawn area: 60%
+[17:07:28] [Server thread/INFO]: Preparing spawn area: 64%
+[17:07:28] [Server thread/INFO]: Preparing spawn area: 68%
+[17:07:28] [Server thread/INFO]: Preparing spawn area: 72%
+[17:07:28] [Server thread/INFO]: Preparing spawn area: 76%
+[17:07:28] [Server thread/INFO]: Preparing spawn area: 80%
+[17:07:28] [Server thread/INFO]: Preparing spawn area: 84%
+[17:07:28] [Server thread/INFO]: Preparing spawn area: 88%
+[17:07:28] [Server thread/INFO]: Preparing spawn area: 92%
+[17:07:28] [Server thread/INFO]: Preparing spawn area: 96%
+[17:07:28] [Server thread/INFO]: Preparing spawn area: 100%
+[17:07:28] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -692263376159001332)
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 4%
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 8%
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 12%
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 16%
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 20%
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 24%
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 28%
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 32%
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 36%
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 40%
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 44%
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 48%
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 52%
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 56%
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 60%
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 64%
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 68%
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 72%
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 76%
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 80%
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 84%
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 88%
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 92%
+[17:07:29] [Server thread/INFO]: Preparing spawn area: 96%
+[17:07:30] [Server thread/INFO]: Preparing spawn area: 100%
+[17:07:30] [Server thread/INFO]: Time elapsed: 2883 ms
+[17:07:30] [Server thread/WARN]: Server permissions file permissions.yml is not valid YAML.
+java.lang.ClassCastException: java.lang.String cannot be cast to java.util.Map
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.loadCustomPermissions(CraftServer.java:823) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.enablePlugins(CraftServer.java:355) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.l(MinecraftServer.java:575) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:537) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:415) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.DedicatedServer.init(DedicatedServer.java:270) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:680) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[17:07:30] [Server thread/INFO]: Done (5.469s)! For help, type "help"
+[17:07:34] [Server thread/INFO]: xatixatix[/25.72.77.4:51326] logged in with entity id 69 at ([world]215.3813252000932, 64.0, -36.15821057182502)
+[17:07:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4749ms or 94 ticks behind
+[17:07:46] [Server thread/INFO]: BOI[/25.37.59.166:51273] logged in with entity id 302 at ([world]263.3734634289694, 11.0, -40.58006833398448)
+[17:07:53] [Server thread/INFO]: fmesztro[/25.47.185.224:44256] logged in with entity id 765 at ([world]74.48884247796181, 51.0, 85.81697871540183)
+[17:08:18] [Server thread/INFO]: fmesztro lost connection: Timed out
+[17:08:19] [Server thread/INFO]: fmesztro left the game
+[17:11:08] [Server thread/INFO]: BOI lost connection: Disconnected
+[17:11:09] [Server thread/INFO]: BOI left the game
+[17:11:21] [Server thread/INFO]: BOI[/25.37.59.166:51291] logged in with entity id 7327 at ([world]262.8143219621599, 11.0, -39.95237969724357)
+[17:12:14] [Server thread/INFO]: fmesztro[/25.47.185.224:44264] logged in with entity id 8387 at ([world]74.48884247796181, 51.0, 85.81697871540183)
+[17:12:39] [Server thread/INFO]: fmesztro lost connection: Timed out
+[17:12:39] [Server thread/INFO]: fmesztro left the game
+[17:12:57] [Server thread/INFO]: BOI lost connection: Disconnected
+[17:12:58] [Server thread/INFO]: BOI left the game
+[17:14:43] [Server thread/INFO]: BOI[/25.37.59.166:51313] logged in with entity id 9972 at ([world]268.4045392401083, 10.0, -36.91744252633173)
+[17:14:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
+[17:15:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
+[17:15:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2380ms or 47 ticks behind
+[17:15:53] [Server thread/WARN]: BOI moved too quickly! 10.682550881394093,2.3093000194787976,0.04765564593817828
+[17:19:44] [Server thread/INFO]: fmesztro[/25.47.185.224:44278] logged in with entity id 13630 at ([world]74.48884247796181, 51.0, 85.81697871540183)
+[17:20:09] [Server thread/INFO]: fmesztro lost connection: Timed out
+[17:20:09] [Server thread/INFO]: fmesztro left the game
+[17:22:49] [Server thread/INFO]: fmesztro[/25.47.185.224:44290] logged in with entity id 19647 at ([world]74.48884247796181, 51.0, 85.81697871540183)
+[17:23:14] [Server thread/INFO]: fmesztro lost connection: Timed out
+[17:23:14] [Server thread/INFO]: fmesztro left the game
+[17:24:01] [Server thread/INFO]: xatixatix lost connection: Disconnected
+[17:24:01] [Server thread/INFO]: xatixatix left the game
+[17:24:15] [Server thread/INFO]: BOI lost connection: Disconnected
+[17:24:15] [Server thread/INFO]: BOI left the game
+[17:24:19] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[17:24:26] [Server thread/INFO]: Stopping the server
+[17:24:26] [Server thread/INFO]: Stopping server
+[17:24:26] [Server thread/INFO]: Saving players
+[17:24:26] [Server thread/INFO]: Saving worlds
+[17:24:26] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[17:24:26] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[17:24:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
