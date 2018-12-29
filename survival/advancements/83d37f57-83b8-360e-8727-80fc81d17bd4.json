@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2018-12-29 04:03:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2018-12-22 13:08:34 +0100"
@@ -200,6 +206,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2018-12-22 13:08:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2018-12-29 04:03:29 +0100"
     },
     "done": true
   },
@@ -257,9 +269,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2018-12-29 02:26:31 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2018-12-22 14:31:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2018-12-29 04:03:29 +0100"
     },
     "done": true
   },
@@ -568,12 +592,12 @@
       "minecraft:zombie_pigman": "2018-12-24 00:36:40 +0100",
       "minecraft:ghast": "2018-12-26 23:08:08 +0100",
       "minecraft:cave_spider": "2018-12-25 20:35:10 +0100",
-      "minecraft:silverfish": "2018-12-26 00:45:16 +0100",
       "minecraft:enderman": "2018-12-26 23:03:14 +0100",
+      "minecraft:silverfish": "2018-12-26 00:45:16 +0100",
       "minecraft:spider": "2018-12-23 14:27:00 +0100",
       "minecraft:zombie": "2018-12-23 14:25:44 +0100",
-      "minecraft:creeper": "2018-12-23 20:50:07 +0100",
       "minecraft:drowned": "2018-12-27 04:27:23 +0100",
+      "minecraft:creeper": "2018-12-23 20:50:07 +0100",
       "minecraft:slime": "2018-12-25 19:11:56 +0100"
     },
     "done": false
@@ -629,6 +653,12 @@
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2018-12-25 18:38:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-12-29 04:03:29 +0100"
     },
     "done": true
   },
@@ -962,6 +992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2018-12-29 04:03:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2018-12-24 02:12:20 +0100"
@@ -1042,12 +1078,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2018-12-22 13:28:17 +0100",
       "minecraft:forest": "2018-12-22 12:52:18 +0100",
+      "minecraft:mountains": "2018-12-22 13:28:17 +0100",
       "minecraft:taiga": "2018-12-22 15:15:26 +0100",
       "minecraft:taiga_hills": "2018-12-23 14:23:30 +0100",
       "minecraft:desert": "2018-12-22 15:20:14 +0100",
       "minecraft:badlands": "2018-12-22 15:20:21 +0100",
+      "minecraft:dark_forest": "2018-12-29 02:25:50 +0100",
       "minecraft:river": "2018-12-22 15:15:21 +0100",
       "minecraft:wooded_mountains": "2018-12-23 15:03:59 +0100",
       "minecraft:wooded_hills": "2018-12-22 13:04:24 +0100",
@@ -1759,6 +1796,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2018-12-29 02:26:31 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2018-12-22 15:59:45 +0100"
@@ -1840,6 +1883,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2018-12-22 14:31:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2018-12-29 04:03:29 +0100"
     },
     "done": true
   },
@@ -2299,6 +2348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2018-12-29 04:03:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2018-12-23 14:50:45 +0100"
@@ -2452,6 +2507,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-22 15:59:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2018-12-29 04:03:29 +0100"
     },
     "done": true
   },
