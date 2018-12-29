@@ -1,102 +1,117 @@
-[17:04:51] [main/INFO]: Loaded 0 recipes
-[17:04:51] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[17:04:51] [Server thread/INFO]: Loading properties
-[17:04:51] [Server thread/INFO]: Default game type: SURVIVAL
-[17:04:51] [Server thread/INFO]: Generating keypair
-[17:04:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:04:51] [Server thread/INFO]: Using default channel type
-[17:04:52] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-a4c555b (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
-[17:04:55] [Server thread/INFO]: [LoopCommands] Loading LoopCommands v1.6.1
-[17:04:55] [Server thread/INFO]: [PluginConstructorAPI] Loading PluginConstructorAPI v1.0.50
-[17:04:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:04:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:04:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:04:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:04:55] [Server thread/INFO]: Preparing level "world"
-[17:04:55] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[17:04:56] [Server thread/INFO]: Loaded 524 recipes
-[17:04:57] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: -692263376159001332)
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 4%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 8%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 12%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 16%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 20%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 24%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 28%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 32%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 36%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 40%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 44%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 48%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 52%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 56%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 60%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 64%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 68%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 72%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 76%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 80%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 84%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 88%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 92%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 96%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 100%
-[17:04:57] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: -692263376159001332)
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 4%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 8%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 12%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 16%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 20%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 24%
-[17:04:57] [Server thread/INFO]: Preparing spawn area: 28%
-[17:04:58] [Server thread/INFO]: Preparing spawn area: 32%
-[17:04:58] [Server thread/INFO]: Preparing spawn area: 36%
-[17:04:58] [Server thread/INFO]: Preparing spawn area: 40%
-[17:04:58] [Server thread/INFO]: Preparing spawn area: 44%
-[17:04:58] [Server thread/INFO]: Preparing spawn area: 48%
-[17:04:58] [Server thread/INFO]: Preparing spawn area: 52%
-[17:04:58] [Server thread/INFO]: Preparing spawn area: 56%
-[17:04:58] [Server thread/INFO]: Preparing spawn area: 60%
-[17:04:58] [Server thread/INFO]: Preparing spawn area: 64%
-[17:04:58] [Server thread/INFO]: Preparing spawn area: 68%
-[17:04:58] [Server thread/INFO]: Preparing spawn area: 72%
-[17:04:58] [Server thread/INFO]: Preparing spawn area: 76%
-[17:04:58] [Server thread/INFO]: Preparing spawn area: 80%
-[17:04:58] [Server thread/INFO]: Preparing spawn area: 84%
-[17:04:58] [Server thread/INFO]: Preparing spawn area: 88%
-[17:04:59] [Server thread/INFO]: Preparing spawn area: 92%
-[17:04:59] [Server thread/INFO]: Preparing spawn area: 96%
-[17:04:59] [Server thread/INFO]: Preparing spawn area: 100%
-[17:04:59] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -692263376159001332)
-[17:04:59] [Server thread/INFO]: Preparing spawn area: 4%
-[17:04:59] [Server thread/INFO]: Preparing spawn area: 8%
-[17:04:59] [Server thread/INFO]: Preparing spawn area: 12%
-[17:04:59] [Server thread/INFO]: Preparing spawn area: 16%
-[17:04:59] [Server thread/INFO]: Preparing spawn area: 20%
-[17:04:59] [Server thread/INFO]: Preparing spawn area: 24%
-[17:04:59] [Server thread/INFO]: Preparing spawn area: 28%
-[17:04:59] [Server thread/INFO]: Preparing spawn area: 32%
-[17:04:59] [Server thread/INFO]: Preparing spawn area: 36%
-[17:04:59] [Server thread/INFO]: Preparing spawn area: 40%
-[17:04:59] [Server thread/INFO]: Preparing spawn area: 44%
-[17:04:59] [Server thread/INFO]: Preparing spawn area: 48%
-[17:04:59] [Server thread/INFO]: Preparing spawn area: 52%
-[17:04:59] [Server thread/INFO]: Preparing spawn area: 56%
-[17:04:59] [Server thread/INFO]: Preparing spawn area: 60%
-[17:04:59] [Server thread/INFO]: Preparing spawn area: 64%
-[17:04:59] [Server thread/INFO]: Preparing spawn area: 68%
-[17:05:00] [Server thread/INFO]: Preparing spawn area: 72%
-[17:05:00] [Server thread/INFO]: Preparing spawn area: 76%
-[17:05:00] [Server thread/INFO]: Preparing spawn area: 80%
-[17:05:00] [Server thread/INFO]: Preparing spawn area: 84%
-[17:05:00] [Server thread/INFO]: Preparing spawn area: 88%
-[17:05:00] [Server thread/INFO]: Preparing spawn area: 92%
-[17:05:00] [Server thread/INFO]: Preparing spawn area: 96%
-[17:05:00] [Server thread/INFO]: Preparing spawn area: 100%
-[17:05:00] [Server thread/INFO]: Time elapsed: 3131 ms
-[17:05:00] [Server thread/INFO]: [LoopCommands] Enabling LoopCommands v1.6.1
-[17:05:01] [Server thread/INFO]: [PluginConstructorAPI] Enabling PluginConstructorAPI v1.0.50
-[17:05:01] [Server thread/WARN]: Server permissions file permissions.yml is not valid YAML.
+[00:35:38] [main/INFO]: Loaded 0 recipes
+[00:35:38] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[00:35:38] [Server thread/INFO]: Loading properties
+[00:35:38] [Server thread/INFO]: Default game type: SURVIVAL
+[00:35:38] [Server thread/INFO]: Generating keypair
+[00:35:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:35:38] [Server thread/INFO]: Using default channel type
+[00:35:40] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-a4c555b (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
+[00:35:43] [Server thread/INFO]: [LoopCommands] Loading LoopCommands v1.6.1
+[00:35:43] [Server thread/INFO]: [PluginConstructorAPI] Loading PluginConstructorAPI v1.0.50
+[00:35:43] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.0.0-beta-04;17f52cb
+[00:35:43] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5.0-b727
+[00:35:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:35:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:35:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:35:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:35:43] [Server thread/INFO]: Preparing level "survival"
+[00:35:43] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[00:35:44] [Server thread/INFO]: Loaded 524 recipes
+[00:35:45] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: -692263376159001332)
+[00:35:45] [Server thread/INFO]: Preparing spawn area: 4%
+[00:35:45] [Server thread/INFO]: Preparing spawn area: 8%
+[00:35:45] [Server thread/INFO]: Preparing spawn area: 12%
+[00:35:45] [Server thread/INFO]: Preparing spawn area: 16%
+[00:35:45] [Server thread/INFO]: Preparing spawn area: 20%
+[00:35:45] [Server thread/INFO]: Preparing spawn area: 24%
+[00:35:45] [Server thread/INFO]: Preparing spawn area: 28%
+[00:35:45] [Server thread/INFO]: Preparing spawn area: 32%
+[00:35:45] [Server thread/INFO]: Preparing spawn area: 36%
+[00:35:45] [Server thread/INFO]: Preparing spawn area: 40%
+[00:35:45] [Server thread/INFO]: Preparing spawn area: 44%
+[00:35:45] [Server thread/INFO]: Preparing spawn area: 48%
+[00:35:45] [Server thread/INFO]: Preparing spawn area: 52%
+[00:35:45] [Server thread/INFO]: Preparing spawn area: 56%
+[00:35:45] [Server thread/INFO]: Preparing spawn area: 60%
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 64%
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 68%
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 72%
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 76%
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 80%
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 84%
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 88%
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 92%
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 96%
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 100%
+[00:35:46] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: -692263376159001332)
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 4%
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 8%
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 12%
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 16%
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 20%
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 24%
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 28%
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 32%
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 36%
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 40%
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 44%
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 48%
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 52%
+[00:35:46] [Server thread/INFO]: Preparing spawn area: 56%
+[00:35:47] [Server thread/INFO]: Preparing spawn area: 60%
+[00:35:47] [Server thread/INFO]: Preparing spawn area: 64%
+[00:35:47] [Server thread/INFO]: Preparing spawn area: 68%
+[00:35:47] [Server thread/INFO]: Preparing spawn area: 72%
+[00:35:47] [Server thread/INFO]: Preparing spawn area: 76%
+[00:35:47] [Server thread/INFO]: Preparing spawn area: 80%
+[00:35:47] [Server thread/INFO]: Preparing spawn area: 84%
+[00:35:47] [Server thread/INFO]: Preparing spawn area: 88%
+[00:35:47] [Server thread/INFO]: Preparing spawn area: 92%
+[00:35:47] [Server thread/INFO]: Preparing spawn area: 96%
+[00:35:47] [Server thread/INFO]: Preparing spawn area: 100%
+[00:35:47] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -692263376159001332)
+[00:35:47] [Server thread/INFO]: Preparing spawn area: 4%
+[00:35:47] [Server thread/INFO]: Preparing spawn area: 8%
+[00:35:47] [Server thread/INFO]: Preparing spawn area: 12%
+[00:35:47] [Server thread/INFO]: Preparing spawn area: 16%
+[00:35:47] [Server thread/INFO]: Preparing spawn area: 20%
+[00:35:47] [Server thread/INFO]: Preparing spawn area: 24%
+[00:35:47] [Server thread/INFO]: Preparing spawn area: 28%
+[00:35:47] [Server thread/INFO]: Preparing spawn area: 32%
+[00:35:47] [Server thread/INFO]: Preparing spawn area: 36%
+[00:35:47] [Server thread/INFO]: Preparing spawn area: 40%
+[00:35:48] [Server thread/INFO]: Preparing spawn area: 44%
+[00:35:48] [Server thread/INFO]: Preparing spawn area: 48%
+[00:35:48] [Server thread/INFO]: Preparing spawn area: 52%
+[00:35:48] [Server thread/INFO]: Preparing spawn area: 56%
+[00:35:48] [Server thread/INFO]: Preparing spawn area: 60%
+[00:35:48] [Server thread/INFO]: Preparing spawn area: 64%
+[00:35:48] [Server thread/INFO]: Preparing spawn area: 68%
+[00:35:48] [Server thread/INFO]: Preparing spawn area: 72%
+[00:35:48] [Server thread/INFO]: Preparing spawn area: 76%
+[00:35:48] [Server thread/INFO]: Preparing spawn area: 80%
+[00:35:48] [Server thread/INFO]: Preparing spawn area: 84%
+[00:35:48] [Server thread/INFO]: Preparing spawn area: 88%
+[00:35:48] [Server thread/INFO]: Preparing spawn area: 92%
+[00:35:48] [Server thread/INFO]: Preparing spawn area: 96%
+[00:35:48] [Server thread/INFO]: Preparing spawn area: 100%
+[00:35:48] [Server thread/INFO]: Time elapsed: 3281 ms
+[00:35:48] [Server thread/INFO]: [LoopCommands] Enabling LoopCommands v1.6.1
+[00:35:49] [Server thread/INFO]: [PluginConstructorAPI] Enabling PluginConstructorAPI v1.0.50
+[00:35:49] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.0.0-beta-04;17f52cb
+[00:35:49] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_13_R2 as the Bukkit adapter
+[00:35:50] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[00:35:50] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5.0-b727
+[00:35:50] [Server thread/INFO]: Preparing start region for level 3 (Seed: 4944443254581965493)
+[00:35:51] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world_the_end
+[00:35:51] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[00:35:51] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world
+[00:35:51] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[00:35:51] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world_nether
+[00:35:51] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[00:35:51] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[00:35:51] [Server thread/INFO]: [Multiverse-Core] Version 2.5.0-b727 (API v20) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+[00:35:51] [Server thread/WARN]: Server permissions file permissions.yml is not valid YAML.
 java.lang.ClassCastException: java.lang.String cannot be cast to java.util.Map
 	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.loadCustomPermissions(CraftServer.java:823) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
 	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.enablePlugins(CraftServer.java:355) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
@@ -106,38 +121,305 @@ java.lang.ClassCastException: java.lang.String cannot be cast to java.util.Map
 	at net.minecraft.server.v1_13_R2.DedicatedServer.init(DedicatedServer.java:270) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
 	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:680) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[17:05:01] [Server thread/INFO]: Done (6.169s)! For help, type "help"
-[17:07:01] [Server thread/INFO]: BOI[/25.37.59.166:50868] logged in with entity id 80 at ([world]207.08695392091278, 72.0, -36.322778196791)
-[17:07:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2336ms or 46 ticks behind
-[17:07:12] [Server thread/WARN]: BOI moved too quickly! -1.0007627134027075,0.0,10.662634795703788
-[17:07:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3600ms or 72 ticks behind
-[17:10:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2405ms or 48 ticks behind
-[17:18:15] [Server thread/INFO]: BOI has made the advancement [Take Aim]
-[17:18:22] [Server thread/INFO]: BOI has completed the challenge [Sniper Duel]
-[18:20:10] [Server thread/INFO]: BOI has made the advancement [Fishy Business]
-[18:20:51] [Server thread/INFO]: BOI has made the advancement [The Parrots and the Bats]
-[18:52:26] [Server thread/INFO]: fmesztro[/25.47.185.224:43522] logged in with entity id 147944 at ([world]228.68299378802354, 64.0, -30.55007492091512)
-[18:52:52] [Server thread/INFO]: fmesztro lost connection: Timed out
-[18:52:52] [Server thread/INFO]: fmesztro left the game
-[19:00:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2200ms or 44 ticks behind
-[19:00:55] [Server thread/WARN]: BOI moved wrongly!
-[19:01:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
-[19:04:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2592ms or 51 ticks behind
-[19:05:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2429ms or 48 ticks behind
-[19:06:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
-[19:07:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2171ms or 43 ticks behind
-[19:12:11] [Server thread/INFO]: BOI lost connection: Disconnected
-[19:12:12] [Server thread/INFO]: BOI left the game
-[19:12:25] [Server thread/INFO]: BOI[/25.37.59.166:51613] logged in with entity id 182511 at ([world]90.53465856637716, 64.0, 80.16181189643457)
-[19:12:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[19:26:29] [Server thread/INFO]: BOI lost connection: Disconnected
-[19:26:29] [Server thread/INFO]: BOI left the game
-[19:26:38] [Server thread/INFO]: Stopping the server
-[19:26:38] [Server thread/INFO]: Stopping server
-[19:26:38] [Server thread/INFO]: [PluginConstructorAPI] Disabling PluginConstructorAPI v1.0.50
-[19:26:38] [Server thread/INFO]: [LoopCommands] Disabling LoopCommands v1.6.1
-[19:26:38] [Server thread/INFO]: Saving players
-[19:26:38] [Server thread/INFO]: Saving worlds
-[19:26:38] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[19:26:38] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
-[19:26:38] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:35:51] [Server thread/INFO]: Done (8.427s)! For help, type "help"
+[00:35:59] [Server thread/INFO]: xatixatix[/25.72.77.4:63784] logged in with entity id 228 at ([survival]239.8582192620025, 75.0625, -41.473432765375186)
+[00:35:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2897ms or 57 ticks behind
+[00:36:02] [Netty Server IO #1/INFO]: [[0;37;1msurvival[0;37;1m]<xatixatix> asd[m
+[00:36:19] [Server thread/INFO]: fmesztro[/25.47.185.224:56678] logged in with entity id 565 at ([survival]204.25403209153464, 77.0, -14.644005626849067)
+[00:36:33] [Server thread/INFO]: BOI[/25.37.59.166:53031] logged in with entity id 801 at ([survival]239.48023705576074, 75.0, -23.80671879233075)
+[00:52:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2904ms or 58 ticks behind
+[00:52:56] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -16.979109922128323,0.0,10.666758703980122
+[00:52:56] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -17.357285831434417,0.0,10.78577432726388
+[00:52:56] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -17.736772060616417,0.0,10.901195349682439
+[00:52:56] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -18.117466016521625,0.0,11.013246133755274
+[00:52:56] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -18.49927258624851,0.0,11.122139778821293
+[00:52:56] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -18.88210273347029,0.0,11.228083028527635
+[00:52:56] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -19.265873766220565,0.0,11.331273171794237
+[00:52:56] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -19.65050953692213,0.0,11.43189524623358
+[00:52:56] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -20.035939095043908,0.0,11.530127035603527
+[00:52:56] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -20.42209697205893,0.0,11.626136044757004
+[00:55:55] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[00:55:55] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[00:55:55] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5.0-b727
+[00:55:55] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.0.0-beta-04;17f52cb
+[00:55:55] [Server thread/INFO]: [PluginConstructorAPI] Disabling PluginConstructorAPI v1.0.50
+[00:55:55] [Server thread/INFO]: [LoopCommands] Disabling LoopCommands v1.6.1
+[00:55:55] [Server thread/INFO]: Loaded 524 recipes
+[00:55:55] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[00:55:56] [Server thread/INFO]: Loaded 524 recipes
+[00:55:57] [Server thread/INFO]: [LoopCommands] Loading LoopCommands v1.6.1
+[00:55:57] [Server thread/INFO]: [PluginConstructorAPI] Loading PluginConstructorAPI v1.0.50
+[00:55:57] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.0.0-beta-04;17f52cb
+[00:55:57] [Server thread/INFO]: [PingTab] Loading PingTab v1.3.5
+[00:55:57] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5.0-b727
+[00:55:57] [Server thread/INFO]: [LoopCommands] Enabling LoopCommands v1.6.1
+[00:55:57] [Server thread/INFO]: [PluginConstructorAPI] Enabling PluginConstructorAPI v1.0.50
+[00:55:57] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.0.0-beta-04;17f52cb
+[00:55:57] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_13_R2 as the Bukkit adapter
+[00:55:58] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[00:55:58] [Server thread/INFO]: [PingTab] Enabling PingTab v1.3.5
+[00:55:58] [Server thread/INFO]: [PingTab] Plugin metrics enabled!
+[00:55:58] [Server thread/INFO]: [PingTab] Checking for new versions...
+[00:55:58] [Server thread/INFO]: [PingTab] Plugin is up to date.
+[00:55:58] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5.0-b727
+[00:55:59] [Netty Server IO #3/INFO]: <fmesztro> jaaa[m
+[00:56:00] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world
+[00:56:00] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[00:56:00] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world_the_end
+[00:56:00] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[00:56:00] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world_nether
+[00:56:00] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[00:56:00] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[00:56:00] [Server thread/INFO]: [Multiverse-Core] Version 2.5.0-b727 (API v20) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+[00:56:00] [Server thread/WARN]: Server permissions file permissions.yml is not valid YAML.
+java.lang.ClassCastException: java.lang.String cannot be cast to java.util.Map
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.loadCustomPermissions(CraftServer.java:823) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.enablePlugins(CraftServer.java:355) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.reload(CraftServer.java:784) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.Bukkit.reload(Bukkit.java:579) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:138) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.dispatchCommand(CraftServer.java:682) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.dispatchServerCommand(CraftServer.java:668) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.DedicatedServer.aU(DedicatedServer.java:423) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.DedicatedServer.b(DedicatedServer.java:383) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:796) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:699) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[00:56:01] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[00:56:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6773ms or 135 ticks behind
+[00:56:01] [pool-3-thread-4/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[00:56:05] [Netty Server IO #4/INFO]: [[0;37;1msurvival[0;37;1m]<BOI> fasztarisznya[m
+[00:57:12] [Netty Server IO #1/INFO]: [[0;37;1msurvival[0;37;1m]<xatixatix> SOOOOKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK[m
+[00:59:10] [Server thread/INFO]: xatixatix lost connection: Disconnected
+[00:59:10] [Server thread/INFO]: xatixatix left the game
+[00:59:21] [Server thread/INFO]: xatixatix[/25.72.77.4:64123] logged in with entity id 113607 at ([survival]169.69999998807907, 64.0, -25.78228291436216)
+[01:01:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2421ms or 48 ticks behind
+[01:01:06] [Server thread/WARN]: BOI moved too quickly! -3.3805015127112483,-7.0,6.495358118222157
+[01:02:36] [Netty Server IO #5/INFO]: [[0;37;1msurvival[0;37;1m]<xatixatix> https://dev.bukkit.org/search?search=anal[m
+[01:06:01] [Server thread/INFO]: xatixatix issued server command: /save-all
+[01:06:04] [Server thread/INFO]: [xatixatix: Saved the game]
+[01:06:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2459ms or 49 ticks behind
+[01:07:36] [Server thread/INFO]: BOI has made the advancement [Local Brewery]
+[01:11:06] [pool-3-thread-7/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 13
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[01:11:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2305ms or 46 ticks behind
+[01:14:27] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[01:14:37] [Server thread/INFO]: Unknown command. Type "help" for help.[m
+[01:14:39] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[01:14:39] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[01:14:39] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5.0-b727
+[01:14:39] [Server thread/INFO]: [PingTab] Disabling PingTab v1.3.5
+[01:14:39] [Server thread/ERROR]: Error occurred while disabling PingTab v1.3.5 (Is it up to date?)
+java.lang.NullPointerException: null
+	at br.net.hexafun.PingTab.PingTab.onDisable(PingTab.java:441) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:256) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:355) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:421) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:414) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.plugin.SimplePluginManager.clearPlugins(SimplePluginManager.java:455) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.reload(CraftServer.java:751) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.Bukkit.reload(Bukkit.java:579) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:138) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.dispatchCommand(CraftServer.java:682) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.dispatchServerCommand(CraftServer.java:668) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.DedicatedServer.aU(DedicatedServer.java:423) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.DedicatedServer.b(DedicatedServer.java:383) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:796) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:699) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[01:14:39] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.0.0-beta-04;17f52cb
+[01:14:39] [Server thread/INFO]: [PluginConstructorAPI] Disabling PluginConstructorAPI v1.0.50
+[01:14:39] [Server thread/INFO]: [LoopCommands] Disabling LoopCommands v1.6.1
+[01:14:40] [Server thread/INFO]: Loaded 524 recipes
+[01:14:40] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[01:14:40] [Server thread/INFO]: Loaded 524 recipes
+[01:14:41] [Server thread/INFO]: [LoopCommands] Loading LoopCommands v1.6.1
+[01:14:41] [Server thread/INFO]: [PluginConstructorAPI] Loading PluginConstructorAPI v1.0.50
+[01:14:41] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.0.0-beta-04;17f52cb
+[01:14:41] [Server thread/INFO]: [PingTab] Loading PingTab v1.3.5
+[01:14:41] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5.0-b727
+[01:14:41] [Server thread/INFO]: [LoopCommands] Enabling LoopCommands v1.6.1
+[01:14:42] [Server thread/INFO]: [PluginConstructorAPI] Enabling PluginConstructorAPI v1.0.50
+[01:14:42] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.0.0-beta-04;17f52cb
+[01:14:42] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_13_R2 as the Bukkit adapter
+[01:14:43] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[01:14:43] [Server thread/INFO]: [PingTab] Enabling PingTab v1.3.5
+[01:14:43] [Server thread/INFO]: [PingTab] Plugin metrics enabled!
+[01:14:43] [Server thread/ERROR]: Cannot load plugins\PingTab\config.yml
+org.bukkit.configuration.InvalidConfigurationException: mapping values are not allowed here
+ in 'string', line 35, column 32:
+    MediumPing: 500# OwnPingMessage: Message that is sent to the pl ... 
+                                   ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:160) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:128) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(YamlConfiguration.java:178) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at br.net.hexafun.PingTab.PingTab.onEnable(PingTab.java:173) [PingTab-1.3.5.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:254) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:331) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:402) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.enablePlugin(CraftServer.java:421) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.enablePlugins(CraftServer.java:347) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.reload(CraftServer.java:784) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.Bukkit.reload(Bukkit.java:579) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:138) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.dispatchCommand(CraftServer.java:682) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.dispatchServerCommand(CraftServer.java:668) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.DedicatedServer.aU(DedicatedServer.java:423) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.DedicatedServer.b(DedicatedServer.java:383) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:796) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:699) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+Caused by: org.yaml.snakeyaml.scanner.ScannerException: mapping values are not allowed here
+ in 'string', line 35, column 32:
+    MediumPing: 500# OwnPingMessage: Message that is sent to the pl ... 
+                                   ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchValue(ScannerImpl.java:870) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:358) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:227) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:558) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:148) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:214) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:85) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:108) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:139) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:524) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:437) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:53) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	... 20 more
+[01:14:43] [Server thread/INFO]: [PingTab] Setting "Interval" not present, using default and saving to the current file.3
+[01:14:43] [Server thread/ERROR]: Cannot load plugins\PingTab\config.yml
+org.bukkit.configuration.InvalidConfigurationException: mapping values are not allowed here
+ in 'string', line 35, column 32:
+    MediumPing: 500# OwnPingMessage: Message that is sent to the pl ... 
+                                   ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:160) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:128) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(YamlConfiguration.java:178) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.plugin.java.JavaPlugin.reloadConfig(JavaPlugin.java:150) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.plugin.java.JavaPlugin.getConfig(JavaPlugin.java:127) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.plugin.java.JavaPlugin.saveConfig(JavaPlugin.java:163) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at br.net.hexafun.PingTab.PingTab.onEnable(PingTab.java:201) [PingTab-1.3.5.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:254) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:331) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:402) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.enablePlugin(CraftServer.java:421) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.enablePlugins(CraftServer.java:347) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.reload(CraftServer.java:784) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.Bukkit.reload(Bukkit.java:579) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:138) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.dispatchCommand(CraftServer.java:682) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.dispatchServerCommand(CraftServer.java:668) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.DedicatedServer.aU(DedicatedServer.java:423) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.DedicatedServer.b(DedicatedServer.java:383) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:796) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:699) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+Caused by: org.yaml.snakeyaml.scanner.ScannerException: mapping values are not allowed here
+ in 'string', line 35, column 32:
+    MediumPing: 500# OwnPingMessage: Message that is sent to the pl ... 
+                                   ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchValue(ScannerImpl.java:870) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:358) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:227) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:558) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:158) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:148) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:214) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:144) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:85) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:108) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:139) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:524) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:437) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:53) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	... 23 more
+[01:14:43] [Server thread/INFO]: [PingTab] Checking for new versions...
+[01:14:43] [Server thread/INFO]: [PingTab] Plugin is up to date.
+[01:14:43] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5.0-b727
+[01:14:44] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world_the_end
+[01:14:44] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[01:14:44] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world
+[01:14:44] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[01:14:44] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world_nether
+[01:14:44] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[01:14:45] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[01:14:45] [Server thread/INFO]: [Multiverse-Core] Version 2.5.0-b727 (API v20) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+[01:14:45] [Server thread/WARN]: Server permissions file permissions.yml is not valid YAML.
+java.lang.ClassCastException: java.lang.String cannot be cast to java.util.Map
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.loadCustomPermissions(CraftServer.java:823) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.enablePlugins(CraftServer.java:355) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.reload(CraftServer.java:784) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.Bukkit.reload(Bukkit.java:579) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:138) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.dispatchCommand(CraftServer.java:682) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.dispatchServerCommand(CraftServer.java:668) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.DedicatedServer.aU(DedicatedServer.java:423) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.DedicatedServer.b(DedicatedServer.java:383) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:796) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:699) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[01:14:45] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[01:14:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5703ms or 114 ticks behind
+[01:14:45] [pool-3-thread-9/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 26
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[01:14:45] [Server thread/WARN]: BOI moved too quickly! -4.361454759855178,-0.10053476174136478,-9.054320034939337
+[01:16:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[01:19:20] [Server thread/INFO]: xatixatix lost connection: Disconnected
+[01:19:20] [Server thread/INFO]: xatixatix left the game
+[01:20:16] [Server thread/INFO]: Saving the game (this may take a moment!)
+[01:20:17] [Server thread/INFO]: Saved the game
+[01:20:23] [Server thread/INFO]: BOI lost connection: Disconnected
+[01:20:23] [Server thread/INFO]: BOI left the game
+[01:20:39] [Server thread/INFO]: Stopping the server
+[01:20:39] [Server thread/INFO]: Stopping server
+[01:20:39] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5.0-b727
+[01:20:39] [Server thread/INFO]: [PingTab] Disabling PingTab v1.3.5
+[01:20:39] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.0.0-beta-04;17f52cb
+[01:20:39] [Server thread/INFO]: [PluginConstructorAPI] Disabling PluginConstructorAPI v1.0.50
+[01:20:39] [Server thread/INFO]: [LoopCommands] Disabling LoopCommands v1.6.1
+[01:20:39] [Server thread/INFO]: Saving players
+[01:20:39] [Server thread/INFO]: fmesztro lost connection: Server closed
+[01:20:39] [Server thread/INFO]: fmesztro left the game
+[01:20:39] [Server thread/INFO]: Saving worlds
+[01:20:39] [Server thread/INFO]: Saving chunks for level 'survival_nether'/minecraft:the_nether
+[01:20:39] [Server thread/INFO]: Saving chunks for level 'survival_the_end'/minecraft:the_end
+[01:20:39] [Server thread/INFO]: Saving chunks for level 'survival'/minecraft:overworld
+[01:20:40] [Server thread/INFO]: Saving chunks for level 'world2'/minecraft:overworld
