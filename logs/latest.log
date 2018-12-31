@@ -1,4 +1,136 @@
-[00:04:30] [pool-3-thread-18/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+[01:40:37] [main/INFO]: Loaded 0 recipes
+[01:40:37] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[01:40:37] [Server thread/INFO]: Loading properties
+[01:40:37] [Server thread/INFO]: Default game type: SURVIVAL
+[01:40:37] [Server thread/INFO]: Generating keypair
+[01:40:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:40:37] [Server thread/INFO]: Using default channel type
+[01:40:38] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-a4c555b (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
+[01:40:41] [Server thread/INFO]: [LoopCommands] Loading LoopCommands v1.6.1
+[01:40:41] [Server thread/INFO]: [PluginConstructorAPI] Loading PluginConstructorAPI v1.0.50
+[01:40:41] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.0.0-beta-04;17f52cb
+[01:40:41] [Server thread/INFO]: [PingTab] Loading PingTab v1.3.5
+[01:40:41] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5.0-b727
+[01:40:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:40:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:40:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:40:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:40:41] [Server thread/INFO]: Preparing level "survival"
+[01:40:41] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[01:40:43] [Server thread/INFO]: Loaded 524 recipes
+[01:40:44] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: -692263376159001332)
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 4%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 8%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 12%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 16%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 20%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 24%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 28%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 32%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 36%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 40%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 44%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 48%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 52%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 56%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 60%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 64%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 68%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 72%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 76%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 80%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 84%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 88%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 92%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 96%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 100%
+[01:40:44] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -692263376159001332)
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 4%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 8%
+[01:40:44] [Server thread/INFO]: Preparing spawn area: 12%
+[01:40:45] [Server thread/INFO]: Preparing spawn area: 16%
+[01:40:45] [Server thread/INFO]: Preparing spawn area: 20%
+[01:40:45] [Server thread/INFO]: Preparing spawn area: 24%
+[01:40:45] [Server thread/INFO]: Preparing spawn area: 28%
+[01:40:45] [Server thread/INFO]: Preparing spawn area: 32%
+[01:40:45] [Server thread/INFO]: Preparing spawn area: 36%
+[01:40:45] [Server thread/INFO]: Preparing spawn area: 40%
+[01:40:45] [Server thread/INFO]: Preparing spawn area: 44%
+[01:40:45] [Server thread/INFO]: Preparing spawn area: 48%
+[01:40:45] [Server thread/INFO]: Preparing spawn area: 52%
+[01:40:45] [Server thread/INFO]: Preparing spawn area: 56%
+[01:40:45] [Server thread/INFO]: Preparing spawn area: 60%
+[01:40:45] [Server thread/INFO]: Preparing spawn area: 64%
+[01:40:45] [Server thread/INFO]: Preparing spawn area: 68%
+[01:40:45] [Server thread/INFO]: Preparing spawn area: 72%
+[01:40:45] [Server thread/INFO]: Preparing spawn area: 76%
+[01:40:45] [Server thread/INFO]: Preparing spawn area: 80%
+[01:40:45] [Server thread/INFO]: Preparing spawn area: 84%
+[01:40:45] [Server thread/INFO]: Preparing spawn area: 88%
+[01:40:45] [Server thread/INFO]: Preparing spawn area: 92%
+[01:40:45] [Server thread/INFO]: Preparing spawn area: 96%
+[01:40:45] [Server thread/INFO]: Preparing spawn area: 100%
+[01:40:45] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: -692263376159001332)
+[01:40:45] [Server thread/INFO]: Preparing spawn area: 4%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 8%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 12%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 16%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 20%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 24%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 28%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 32%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 36%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 40%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 44%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 48%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 52%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 56%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 60%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 64%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 68%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 72%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 76%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 80%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 84%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 88%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 92%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 96%
+[01:40:46] [Server thread/INFO]: Preparing spawn area: 100%
+[01:40:46] [Server thread/INFO]: Time elapsed: 2652 ms
+[01:40:46] [Server thread/INFO]: [LoopCommands] Enabling LoopCommands v1.6.1
+[01:40:50] [Server thread/INFO]: [PluginConstructorAPI] Enabling PluginConstructorAPI v1.0.50
+[01:40:50] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.0.0-beta-04;17f52cb
+[01:40:50] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_13_R2 as the Bukkit adapter
+[01:40:50] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[01:40:50] [Server thread/INFO]: [PingTab] Enabling PingTab v1.3.5
+[01:40:50] [Server thread/INFO]: [PingTab] Plugin metrics enabled!
+[01:40:50] [Server thread/INFO]: [PingTab] Setting "Interval" not present, using default and saving to the current file.3
+[01:40:50] [Server thread/INFO]: [PingTab] Checking for new versions...
+[01:40:51] [Server thread/INFO]: [PingTab] Plugin is up to date.
+[01:40:51] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5.0-b727
+[01:40:51] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world2
+[01:40:51] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[01:40:51] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world
+[01:40:51] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[01:40:51] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world_the_end
+[01:40:51] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[01:40:51] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world_nether
+[01:40:51] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[01:40:51] [Server thread/INFO]: Preparing start region for level 3 (Seed: 1170133458252211774)
+[01:40:51] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[01:40:52] [Server thread/INFO]: [Multiverse-Core] Version 2.5.0-b727 (API v20) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+[01:40:52] [Server thread/WARN]: Server permissions file permissions.yml is not valid YAML.
+java.lang.ClassCastException: java.lang.String cannot be cast to java.util.Map
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.loadCustomPermissions(CraftServer.java:823) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.enablePlugins(CraftServer.java:355) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.l(MinecraftServer.java:575) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:537) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:415) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.DedicatedServer.init(DedicatedServer.java:270) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:680) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[01:40:52] [Server thread/INFO]: Done (10.240s)! For help, type "help"
+[01:40:52] [pool-3-thread-1/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -8,20 +140,29 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[00:06:14] [Server thread/INFO]: xatixatix issued server command: /ping
-[00:06:19] [Server thread/INFO]: xatixatix issued server command: /ping
-[00:06:23] [Server thread/INFO]: xatixatix issued server command: /pingtab
-[00:06:27] [Server thread/INFO]: xatixatix issued server command: /pingtab
-[00:06:29] [Server thread/INFO]: xatixatix issued server command: /pingtab:ping
-[00:06:34] [Server thread/INFO]: xatixatix issued server command: /ping
-[00:06:36] [Server thread/INFO]: xatixatix issued server command: /ping
-[00:09:29] [Server thread/INFO]: BOI has completed the challenge [Subspace Bubble]
-[00:09:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12404ms or 248 ticks behind
-[00:09:47] [Server thread/INFO]: xatixatix has completed the challenge [Subspace Bubble]
-[00:09:54] [Server thread/INFO]: fmesztro has completed the challenge [Subspace Bubble]
-[00:10:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21708ms or 434 ticks behind
-[00:11:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
-[00:20:06] [pool-3-thread-20/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+[01:40:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[01:41:16] [Server thread/INFO]: BOI[/25.37.59.166:50850] logged in with entity id 284 at ([survival_nether]2027.4381561504783, 60.0, -11.203515809752268)
+[01:41:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2342ms or 46 ticks behind
+[01:41:18] [Server thread/INFO]: fmesztro[/25.47.185.224:59986] logged in with entity id 428 at ([survival_nether]2020.6732168112483, 62.0, -8.656103289792654)
+[01:41:43] [Server thread/INFO]: fmesztro lost connection: Timed out
+[01:41:44] [Server thread/INFO]: fmesztro left the game
+[01:43:07] [Server thread/INFO]: fmesztro[/25.47.185.224:60020] logged in with entity id 635 at ([survival_nether]2020.6732168112483, 62.0, -8.656103289792654)
+[01:43:32] [Server thread/INFO]: fmesztro lost connection: Timed out
+[01:43:33] [Server thread/INFO]: fmesztro left the game
+[01:44:15] [Server thread/INFO]: fmesztro[/25.47.185.224:60044] logged in with entity id 788 at ([survival_nether]2020.6732168112483, 61.92159999847412, -8.656103289792654)
+[01:45:10] [Server thread/INFO]: BOI lost connection: Disconnected
+[01:45:10] [Server thread/INFO]: BOI left the game
+[01:46:21] [Server thread/INFO]: xatixatix[/25.37.59.166:50960] logged in with entity id 1235 at ([survival_nether]2028.3933740425755, 68.0, -24.118825365776118)
+[01:46:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2182ms or 43 ticks behind
+[01:46:34] [Server thread/WARN]: xatixatix moved too quickly! 15.093015971277964,1.6044241013267069,2.004182172059288
+[01:47:29] [Server thread/INFO]: xatixatix lost connection: Disconnected
+[01:47:29] [Server thread/INFO]: xatixatix left the game
+[01:47:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2303ms or 46 ticks behind
+[01:48:14] [Server thread/INFO]: BOI[/25.37.59.166:51033] logged in with entity id 1541 at ([survival_nether]2053.4487089490817, 60.0, -6.2778213448654725)
+[01:48:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2370ms or 47 ticks behind
+[01:48:25] [Server thread/WARN]: BOI moved too quickly! 11.105317747780191,1.024424088213685,-0.2720771615338684
+[01:48:29] [Server thread/WARN]: BOI moved too quickly! 15.800018233607716,-0.3800236743955452,-0.13053041611815708
+[01:56:04] [pool-3-thread-4/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -31,7 +172,9 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[00:35:06] [pool-3-thread-22/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+[01:58:52] [Server thread/INFO]: BOI has made the advancement [Spooky Scary Skeleton]
+[01:59:16] [Server thread/INFO]: fmesztro has made the advancement [Spooky Scary Skeleton]
+[02:11:03] [pool-3-thread-6/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -41,7 +184,11 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[00:50:06] [pool-3-thread-24/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+[02:16:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12440ms or 248 ticks behind
+[02:17:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16359ms or 327 ticks behind
+[02:17:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8742ms or 174 ticks behind
+[02:18:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02:26:43] [pool-3-thread-8/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -51,7 +198,12 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[01:05:06] [pool-3-thread-26/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+[02:35:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[02:41:43] [Server thread/WARN]: fmesztro was kicked for floating too long!
+[02:41:43] [Server thread/INFO]: fmesztro lost connection: Flying is not enabled on this server
+[02:41:43] [Server thread/INFO]: fmesztro left the game
+[02:41:43] [Server thread/WARN]: handleDisconnection() called twice
+[02:41:45] [pool-3-thread-10/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -61,9 +213,9 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[01:12:22] [Server thread/INFO]: xatixatix has completed the challenge [Return to Sender]
-[01:19:07] [Server thread/INFO]: fmesztro has completed the challenge [Return to Sender]
-[01:20:06] [pool-3-thread-28/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+[02:41:47] [Server thread/INFO]: fmesztro[/25.47.185.224:60128] logged in with entity id 31995 at ([survival]18264.742900112633, 61.99486406157063, 104.78882856264389)
+[02:42:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[02:56:47] [pool-3-thread-12/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -73,22 +225,196 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[01:23:57] [Server thread/INFO]: xatixatix lost connection: Disconnected
-[01:23:57] [Server thread/INFO]: xatixatix left the game
-[01:24:27] [Server thread/INFO]: BOI lost connection: Disconnected
-[01:24:27] [Server thread/INFO]: BOI left the game
-[01:24:27] [Server thread/INFO]: fmesztro lost connection: Disconnected
-[01:24:27] [Server thread/INFO]: fmesztro left the game
-[01:24:32] [Server thread/INFO]: Stopping the server
-[01:24:33] [Server thread/INFO]: Stopping server
-[01:24:33] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5.0-b727
-[01:24:33] [Server thread/INFO]: [PingTab] Disabling PingTab v1.3.5
-[01:24:33] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.0.0-beta-04;17f52cb
-[01:24:33] [Server thread/INFO]: [PluginConstructorAPI] Disabling PluginConstructorAPI v1.0.50
-[01:24:33] [Server thread/INFO]: [LoopCommands] Disabling LoopCommands v1.6.1
-[01:24:33] [Server thread/INFO]: Saving players
-[01:24:33] [Server thread/INFO]: Saving worlds
-[01:24:33] [Server thread/INFO]: Saving chunks for level 'survival_nether'/minecraft:the_nether
-[01:24:33] [Server thread/INFO]: Saving chunks for level 'survival_the_end'/minecraft:the_end
-[01:24:33] [Server thread/INFO]: Saving chunks for level 'survival'/minecraft:overworld
-[01:24:33] [Server thread/INFO]: Saving chunks for level 'Creativeflat'/minecraft:overworld
+[03:06:26] [Server thread/WARN]: Boat moved wrongly!
+[03:06:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[03:07:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4102ms or 82 ticks behind
+[03:11:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2563ms or 51 ticks behind
+[03:11:55] [pool-3-thread-14/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[03:21:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[03:21:59] [Server thread/WARN]: fmesztro moved too quickly! 9.962516748550115,0.49520087700592796,1.9222419732334401
+[03:22:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2446ms or 48 ticks behind
+[03:22:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[03:27:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2288ms or 45 ticks behind
+[03:27:04] [Server thread/WARN]: BOI moved too quickly! -8.361832926733769,-5.3099237991128945,3.2152823842120597
+[03:27:04] [pool-3-thread-16/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[03:29:12] [Netty Server IO #5/INFO]: [[0;37;1msurvival[0;37;1m]<fmesztro> z[m
+[03:32:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3037ms or 60 ticks behind
+[03:37:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[03:37:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[03:39:13] [Server thread/INFO]: fmesztro lost connection: Disconnected
+[03:39:13] [Server thread/INFO]: fmesztro left the game
+[03:40:28] [Server thread/INFO]: fmesztro[/25.47.185.224:60220] logged in with entity id 139929 at ([survival]17208.43300235733, 100.0, 2836.699999988079)
+[03:40:40] [Netty Server IO #0/INFO]: [[0;37;1msurvival[0;37;1m]<fmesztro> z[m
+[03:41:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[03:41:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[03:42:16] [pool-3-thread-18/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[03:43:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[03:43:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[03:44:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5321ms or 106 ticks behind
+[03:47:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[03:51:42] [Netty Server IO #4/INFO]: [[0;37;1msurvival[0;37;1m]<BOI> z[m
+[03:51:50] [Netty Server IO #4/INFO]: [[0;37;1msurvival[0;37;1m]<BOI> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz[m
+[03:53:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[03:57:04] [Server thread/INFO]: BOI has made the advancement [A Throwaway Joke]
+[03:57:29] [pool-3-thread-20/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[03:59:14] [Server thread/WARN]: Donkey moved wrongly!
+[03:59:16] [Server thread/WARN]: Donkey moved wrongly!
+[04:00:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[04:00:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8694ms or 173 ticks behind
+[04:01:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2971ms or 59 ticks behind
+[04:02:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2440ms or 48 ticks behind
+[04:09:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2342ms or 46 ticks behind
+[04:09:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7428ms or 148 ticks behind
+[04:12:32] [Server thread/WARN]: Boat moved wrongly!
+[04:12:55] [pool-3-thread-22/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[04:15:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[04:16:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2352ms or 47 ticks behind
+[04:16:31] [Server thread/WARN]: Boat moved wrongly!
+[04:18:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[04:21:54] [Server thread/WARN]: fmesztro was kicked for floating too long!
+[04:21:54] [Server thread/INFO]: fmesztro lost connection: Flying is not enabled on this server
+[04:21:55] [Server thread/INFO]: fmesztro left the game
+[04:21:55] [Server thread/WARN]: handleDisconnection() called twice
+[04:21:58] [Server thread/INFO]: fmesztro[/25.47.185.224:60270] logged in with entity id 209198 at ([survival]17969.941296795252, 61.99486432318074, 5664.947396678841)
+[04:28:01] [pool-3-thread-24/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[04:30:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[04:30:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[04:32:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[04:33:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[04:36:37] [Netty Server IO #1/INFO]: [[0;37;1msurvival[0;37;1m]<fmesztro> z[m
+[04:37:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[04:38:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4433ms or 88 ticks behind
+[04:38:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3053ms or 61 ticks behind
+[04:38:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6897ms or 137 ticks behind
+[04:39:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4207ms or 84 ticks behind
+[04:39:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[04:39:51] [Server thread/INFO]: fmesztro lost connection: Disconnected
+[04:39:51] [Server thread/INFO]: fmesztro left the game
+[04:40:18] [Server thread/INFO]: fmesztro[/25.47.185.224:60314] logged in with entity id 246915 at ([survival]16544.66552799203, 79.0, 5741.86336516202)
+[04:43:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[04:43:35] [pool-3-thread-26/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[04:44:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[04:44:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[04:45:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[04:45:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[04:46:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2757ms or 55 ticks behind
+[04:46:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[04:47:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[04:48:26] [Netty Server IO #4/INFO]: [[0;37;1msurvival[0;37;1m]<fmesztro> z[m
+[04:48:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3156ms or 63 ticks behind
+[04:48:51] [Server thread/WARN]: BOI moved too quickly! -1.759697204350232,0.9986640208878583,9.824998681367106
+[04:49:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[04:49:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2411ms or 48 ticks behind
+[04:50:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[04:53:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2240ms or 44 ticks behind
+[04:53:59] [Server thread/WARN]: fmesztro moved too quickly! -2.782074500242743,1.1377173328133097,9.591202424270705
+[04:59:00] [pool-3-thread-28/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[05:09:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
+[05:09:02] [Server thread/WARN]: fmesztro moved too quickly! 6.072662412225327,0.1754232959521005,8.761866074884892
+[05:14:03] [pool-3-thread-30/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[05:14:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[05:19:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3044ms or 60 ticks behind
+[05:19:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2632ms or 52 ticks behind
+[05:20:32] [Server thread/WARN]: Skipping Entity with id minecraft:
+[05:20:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[05:23:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[05:24:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3565ms or 71 ticks behind
+[05:24:17] [Server thread/WARN]: fmesztro moved too quickly! 14.136489529060782,2.0,0.8603622040045593
+[05:25:43] [Server thread/INFO]: BOI lost connection: Disconnected
+[05:25:43] [Server thread/INFO]: BOI left the game
+[05:25:44] [Server thread/INFO]: fmesztro lost connection: Disconnected
+[05:25:44] [Server thread/INFO]: fmesztro left the game
+[05:25:56] [Server thread/INFO]: Stopping the server
+[05:25:56] [Server thread/INFO]: Stopping server
+[05:25:56] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5.0-b727
+[05:25:56] [Server thread/INFO]: [PingTab] Disabling PingTab v1.3.5
+[05:25:56] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.0.0-beta-04;17f52cb
+[05:25:56] [Server thread/INFO]: [PluginConstructorAPI] Disabling PluginConstructorAPI v1.0.50
+[05:25:56] [Server thread/INFO]: [LoopCommands] Disabling LoopCommands v1.6.1
+[05:25:56] [Server thread/INFO]: Saving players
+[05:25:56] [Server thread/INFO]: Saving worlds
+[05:25:56] [Server thread/INFO]: Saving chunks for level 'survival_the_end'/minecraft:the_end
+[05:25:56] [Server thread/INFO]: Saving chunks for level 'Creativeflat'/minecraft:overworld
+[05:25:56] [Server thread/INFO]: Saving chunks for level 'survival'/minecraft:overworld
+[05:25:56] [Server thread/INFO]: Saving chunks for level 'survival_nether'/minecraft:the_nether
