@@ -458,6 +458,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2018-12-31 01:12:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2018-12-22 14:10:07 +0100"
@@ -592,8 +598,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2018-12-30 23:47:19 +0100",
       "minecraft:skeleton": "2018-12-22 20:21:07 +0100",
+      "minecraft:phantom": "2018-12-31 00:28:24 +0100",
+      "minecraft:witch": "2018-12-30 16:00:02 +0100",
       "minecraft:zombie_pigman": "2018-12-24 15:41:42 +0100",
+      "minecraft:ghast": "2018-12-30 23:28:28 +0100",
       "minecraft:cave_spider": "2018-12-25 15:59:24 +0100",
       "minecraft:silverfish": "2018-12-23 14:16:00 +0100",
       "minecraft:magma_cube": "2018-12-22 18:38:20 +0100",
@@ -608,6 +618,12 @@
   "minecraft:recipes/decorations/brown_glazed_terracotta": {
     "criteria": {
       "has_brown_terracotta": "2018-12-23 23:01:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2018-12-30 22:21:49 +0100"
     },
     "done": true
   },
@@ -741,6 +757,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2018-12-29 14:28:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2018-12-30 23:47:24 +0100"
     },
     "done": true
   },
@@ -1080,6 +1102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2018-12-30 22:21:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2018-12-23 16:36:30 +0100"
@@ -1099,6 +1127,7 @@
       "minecraft:badlands_plateau": "2018-12-29 14:18:43 +0100",
       "minecraft:mountains": "2018-12-22 13:14:15 +0100",
       "minecraft:forest": "2018-12-22 12:54:39 +0100",
+      "minecraft:mushroom_fields": "2018-12-30 22:02:56 +0100",
       "minecraft:taiga": "2018-12-22 13:52:34 +0100",
       "minecraft:desert_hills": "2018-12-23 21:26:43 +0100",
       "minecraft:deep_cold_ocean": "2018-12-23 21:16:36 +0100",
@@ -1229,6 +1258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp_block": "2018-12-30 20:19:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-12-22 19:03:44 +0100"
@@ -1322,6 +1357,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2018-12-22 12:53:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2018-12-30 22:21:49 +0100"
     },
     "done": true
   },
@@ -1475,6 +1516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_at_least_9_ice": "2018-12-30 18:22:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2018-12-22 13:25:33 +0100"
@@ -1574,6 +1621,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2018-12-29 14:28:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2018-12-31 00:09:47 +0100"
     },
     "done": true
   },
@@ -1699,6 +1752,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2018-12-30 18:54:05 +0100",
       "minecraft:pig": "2018-12-25 16:39:21 +0100",
       "minecraft:sheep": "2018-12-23 12:56:05 +0100"
     },
@@ -1890,6 +1944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2018-12-30 20:19:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2018-12-22 18:28:51 +0100"
@@ -1938,6 +1998,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_at_least_9_packed_ice": "2018-12-30 18:21:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2018-12-29 18:15:06 +0100"
@@ -1953,6 +2019,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2018-12-22 12:54:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_the_recipe": "2018-12-30 22:21:59 +0100"
     },
     "done": true
   },
@@ -1977,6 +2049,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2018-12-22 19:03:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2018-12-31 01:22:02 +0100"
     },
     "done": true
   },
@@ -2268,6 +2346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2018-12-30 20:19:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2018-12-22 12:50:56 +0100"
@@ -2304,6 +2388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2018-12-30 23:47:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2018-12-29 14:28:21 +0100"
@@ -2337,6 +2427,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2018-12-22 13:16:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2018-12-30 23:47:24 +0100"
     },
     "done": true
   },
@@ -2409,6 +2505,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2018-12-22 13:25:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2018-12-30 15:06:57 +0100"
     },
     "done": true
   },
@@ -2529,6 +2631,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2018-12-29 18:46:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2018-12-30 23:15:33 +0100"
     },
     "done": true
   },
