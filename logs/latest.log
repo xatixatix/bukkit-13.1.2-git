@@ -1,136 +1,4 @@
-[01:40:37] [main/INFO]: Loaded 0 recipes
-[01:40:37] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[01:40:37] [Server thread/INFO]: Loading properties
-[01:40:37] [Server thread/INFO]: Default game type: SURVIVAL
-[01:40:37] [Server thread/INFO]: Generating keypair
-[01:40:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:40:37] [Server thread/INFO]: Using default channel type
-[01:40:38] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-a4c555b (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
-[01:40:41] [Server thread/INFO]: [LoopCommands] Loading LoopCommands v1.6.1
-[01:40:41] [Server thread/INFO]: [PluginConstructorAPI] Loading PluginConstructorAPI v1.0.50
-[01:40:41] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.0.0-beta-04;17f52cb
-[01:40:41] [Server thread/INFO]: [PingTab] Loading PingTab v1.3.5
-[01:40:41] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5.0-b727
-[01:40:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:40:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:40:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:40:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:40:41] [Server thread/INFO]: Preparing level "survival"
-[01:40:41] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[01:40:43] [Server thread/INFO]: Loaded 524 recipes
-[01:40:44] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: -692263376159001332)
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 4%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 8%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 12%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 16%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 20%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 24%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 28%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 32%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 36%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 40%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 44%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 48%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 52%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 56%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 60%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 64%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 68%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 72%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 76%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 80%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 84%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 88%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 92%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 96%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 100%
-[01:40:44] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: -692263376159001332)
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 4%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 8%
-[01:40:44] [Server thread/INFO]: Preparing spawn area: 12%
-[01:40:45] [Server thread/INFO]: Preparing spawn area: 16%
-[01:40:45] [Server thread/INFO]: Preparing spawn area: 20%
-[01:40:45] [Server thread/INFO]: Preparing spawn area: 24%
-[01:40:45] [Server thread/INFO]: Preparing spawn area: 28%
-[01:40:45] [Server thread/INFO]: Preparing spawn area: 32%
-[01:40:45] [Server thread/INFO]: Preparing spawn area: 36%
-[01:40:45] [Server thread/INFO]: Preparing spawn area: 40%
-[01:40:45] [Server thread/INFO]: Preparing spawn area: 44%
-[01:40:45] [Server thread/INFO]: Preparing spawn area: 48%
-[01:40:45] [Server thread/INFO]: Preparing spawn area: 52%
-[01:40:45] [Server thread/INFO]: Preparing spawn area: 56%
-[01:40:45] [Server thread/INFO]: Preparing spawn area: 60%
-[01:40:45] [Server thread/INFO]: Preparing spawn area: 64%
-[01:40:45] [Server thread/INFO]: Preparing spawn area: 68%
-[01:40:45] [Server thread/INFO]: Preparing spawn area: 72%
-[01:40:45] [Server thread/INFO]: Preparing spawn area: 76%
-[01:40:45] [Server thread/INFO]: Preparing spawn area: 80%
-[01:40:45] [Server thread/INFO]: Preparing spawn area: 84%
-[01:40:45] [Server thread/INFO]: Preparing spawn area: 88%
-[01:40:45] [Server thread/INFO]: Preparing spawn area: 92%
-[01:40:45] [Server thread/INFO]: Preparing spawn area: 96%
-[01:40:45] [Server thread/INFO]: Preparing spawn area: 100%
-[01:40:45] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: -692263376159001332)
-[01:40:45] [Server thread/INFO]: Preparing spawn area: 4%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 8%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 12%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 16%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 20%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 24%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 28%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 32%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 36%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 40%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 44%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 48%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 52%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 56%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 60%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 64%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 68%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 72%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 76%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 80%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 84%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 88%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 92%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 96%
-[01:40:46] [Server thread/INFO]: Preparing spawn area: 100%
-[01:40:46] [Server thread/INFO]: Time elapsed: 2652 ms
-[01:40:46] [Server thread/INFO]: [LoopCommands] Enabling LoopCommands v1.6.1
-[01:40:50] [Server thread/INFO]: [PluginConstructorAPI] Enabling PluginConstructorAPI v1.0.50
-[01:40:50] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.0.0-beta-04;17f52cb
-[01:40:50] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_13_R2 as the Bukkit adapter
-[01:40:50] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[01:40:50] [Server thread/INFO]: [PingTab] Enabling PingTab v1.3.5
-[01:40:50] [Server thread/INFO]: [PingTab] Plugin metrics enabled!
-[01:40:50] [Server thread/INFO]: [PingTab] Setting "Interval" not present, using default and saving to the current file.3
-[01:40:50] [Server thread/INFO]: [PingTab] Checking for new versions...
-[01:40:51] [Server thread/INFO]: [PingTab] Plugin is up to date.
-[01:40:51] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5.0-b727
-[01:40:51] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world2
-[01:40:51] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
-[01:40:51] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world
-[01:40:51] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
-[01:40:51] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world_the_end
-[01:40:51] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
-[01:40:51] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world_nether
-[01:40:51] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
-[01:40:51] [Server thread/INFO]: Preparing start region for level 3 (Seed: 1170133458252211774)
-[01:40:51] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
-[01:40:52] [Server thread/INFO]: [Multiverse-Core] Version 2.5.0-b727 (API v20) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
-[01:40:52] [Server thread/WARN]: Server permissions file permissions.yml is not valid YAML.
-java.lang.ClassCastException: java.lang.String cannot be cast to java.util.Map
-	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.loadCustomPermissions(CraftServer.java:823) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at org.bukkit.craftbukkit.v1_13_R2.CraftServer.enablePlugins(CraftServer.java:355) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at net.minecraft.server.v1_13_R2.MinecraftServer.l(MinecraftServer.java:575) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:537) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:415) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at net.minecraft.server.v1_13_R2.DedicatedServer.init(DedicatedServer.java:270) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:680) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
-	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[01:40:52] [Server thread/INFO]: Done (10.240s)! For help, type "help"
-[01:40:52] [pool-3-thread-1/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+[00:04:54] [pool-3-thread-31/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -140,29 +8,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[01:40:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
-[01:41:16] [Server thread/INFO]: BOI[/25.37.59.166:50850] logged in with entity id 284 at ([survival_nether]2027.4381561504783, 60.0, -11.203515809752268)
-[01:41:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2342ms or 46 ticks behind
-[01:41:18] [Server thread/INFO]: fmesztro[/25.47.185.224:59986] logged in with entity id 428 at ([survival_nether]2020.6732168112483, 62.0, -8.656103289792654)
-[01:41:43] [Server thread/INFO]: fmesztro lost connection: Timed out
-[01:41:44] [Server thread/INFO]: fmesztro left the game
-[01:43:07] [Server thread/INFO]: fmesztro[/25.47.185.224:60020] logged in with entity id 635 at ([survival_nether]2020.6732168112483, 62.0, -8.656103289792654)
-[01:43:32] [Server thread/INFO]: fmesztro lost connection: Timed out
-[01:43:33] [Server thread/INFO]: fmesztro left the game
-[01:44:15] [Server thread/INFO]: fmesztro[/25.47.185.224:60044] logged in with entity id 788 at ([survival_nether]2020.6732168112483, 61.92159999847412, -8.656103289792654)
-[01:45:10] [Server thread/INFO]: BOI lost connection: Disconnected
-[01:45:10] [Server thread/INFO]: BOI left the game
-[01:46:21] [Server thread/INFO]: xatixatix[/25.37.59.166:50960] logged in with entity id 1235 at ([survival_nether]2028.3933740425755, 68.0, -24.118825365776118)
-[01:46:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2182ms or 43 ticks behind
-[01:46:34] [Server thread/WARN]: xatixatix moved too quickly! 15.093015971277964,1.6044241013267069,2.004182172059288
-[01:47:29] [Server thread/INFO]: xatixatix lost connection: Disconnected
-[01:47:29] [Server thread/INFO]: xatixatix left the game
-[01:47:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2303ms or 46 ticks behind
-[01:48:14] [Server thread/INFO]: BOI[/25.37.59.166:51033] logged in with entity id 1541 at ([survival_nether]2053.4487089490817, 60.0, -6.2778213448654725)
-[01:48:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2370ms or 47 ticks behind
-[01:48:25] [Server thread/WARN]: BOI moved too quickly! 11.105317747780191,1.024424088213685,-0.2720771615338684
-[01:48:29] [Server thread/WARN]: BOI moved too quickly! 15.800018233607716,-0.3800236743955452,-0.13053041611815708
-[01:56:04] [pool-3-thread-4/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+[00:19:54] [pool-3-thread-33/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -172,9 +18,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[01:58:52] [Server thread/INFO]: BOI has made the advancement [Spooky Scary Skeleton]
-[01:59:16] [Server thread/INFO]: fmesztro has made the advancement [Spooky Scary Skeleton]
-[02:11:03] [pool-3-thread-6/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+[00:34:54] [pool-3-thread-35/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -184,11 +28,9 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[02:16:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12440ms or 248 ticks behind
-[02:17:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16359ms or 327 ticks behind
-[02:17:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8742ms or 174 ticks behind
-[02:18:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[02:26:43] [pool-3-thread-8/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+[00:44:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3812ms or 76 ticks behind
+[00:49:04] [Netty Server IO #0/INFO]: [[0;37;1msurvival[0;37;1m]<fmesztro> z[m
+[00:49:58] [pool-3-thread-37/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -198,12 +40,14 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[02:35:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[02:41:43] [Server thread/WARN]: fmesztro was kicked for floating too long!
-[02:41:43] [Server thread/INFO]: fmesztro lost connection: Flying is not enabled on this server
-[02:41:43] [Server thread/INFO]: fmesztro left the game
-[02:41:43] [Server thread/WARN]: handleDisconnection() called twice
-[02:41:45] [pool-3-thread-10/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+[00:50:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[00:50:49] [Server thread/INFO]: BOI has completed the challenge [Adventuring Time]
+[00:57:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:57:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2298ms or 45 ticks behind
+[01:01:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2313ms or 46 ticks behind
+[01:02:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2220ms or 44 ticks behind
+[01:04:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2356ms or 47 ticks behind
+[01:05:11] [pool-3-thread-39/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -213,9 +57,10 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[02:41:47] [Server thread/INFO]: fmesztro[/25.47.185.224:60128] logged in with entity id 31995 at ([survival]18264.742900112633, 61.99486406157063, 104.78882856264389)
-[02:42:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[02:56:47] [pool-3-thread-12/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+[01:08:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2706ms or 54 ticks behind
+[01:17:48] [Server thread/INFO]: fmesztro issued server command: /weather clear
+[01:17:48] [Server thread/INFO]: [fmesztro: Set the weather to clear]
+[01:20:14] [pool-3-thread-41/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -225,11 +70,11 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[03:06:26] [Server thread/WARN]: Boat moved wrongly!
-[03:06:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
-[03:07:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4102ms or 82 ticks behind
-[03:11:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2563ms or 51 ticks behind
-[03:11:55] [pool-3-thread-14/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+[01:22:59] [Server thread/INFO]: fmesztro issued server command: /weather clear 1000000
+[01:22:59] [Server thread/INFO]: [fmesztro: Set the weather to clear]
+[01:31:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3463ms or 69 ticks behind
+[01:33:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2149ms or 42 ticks behind
+[01:35:19] [pool-3-thread-43/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -239,13 +84,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[03:21:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
-[03:21:59] [Server thread/WARN]: fmesztro moved too quickly! 9.962516748550115,0.49520087700592796,1.9222419732334401
-[03:22:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2446ms or 48 ticks behind
-[03:22:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
-[03:27:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2288ms or 45 ticks behind
-[03:27:04] [Server thread/WARN]: BOI moved too quickly! -8.361832926733769,-5.3099237991128945,3.2152823842120597
-[03:27:04] [pool-3-thread-16/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+[01:50:19] [pool-3-thread-45/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -255,17 +94,13 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[03:29:12] [Netty Server IO #5/INFO]: [[0;37;1msurvival[0;37;1m]<fmesztro> z[m
-[03:32:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3037ms or 60 ticks behind
-[03:37:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
-[03:37:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[03:39:13] [Server thread/INFO]: fmesztro lost connection: Disconnected
-[03:39:13] [Server thread/INFO]: fmesztro left the game
-[03:40:28] [Server thread/INFO]: fmesztro[/25.47.185.224:60220] logged in with entity id 139929 at ([survival]17208.43300235733, 100.0, 2836.699999988079)
-[03:40:40] [Netty Server IO #0/INFO]: [[0;37;1msurvival[0;37;1m]<fmesztro> z[m
-[03:41:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[03:41:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[03:42:16] [pool-3-thread-18/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+[01:59:52] [Netty Server IO #0/INFO]: [[0;37;1msurvival[0;37;1m]<fmesztro> szix[m
+[01:59:57] [Netty Server IO #0/INFO]: [[0;37;1msurvival[0;37;1m]<fmesztro> tvagyol[m
+[02:00:02] [Netty Server IO #6/INFO]: [[0;37;1msurvival[0;37;1m]<BOI> pill[m
+[02:00:12] [Netty Server IO #6/INFO]: [[0;37;1msurvival[0;37;1m]<BOI> megyek valami kajat csinalok[m
+[02:00:22] [Server thread/INFO]: BOI lost connection: Disconnected
+[02:00:22] [Server thread/INFO]: BOI left the game
+[02:05:19] [pool-3-thread-47/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -275,15 +110,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[03:43:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[03:43:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[03:44:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5321ms or 106 ticks behind
-[03:47:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[03:51:42] [Netty Server IO #4/INFO]: [[0;37;1msurvival[0;37;1m]<BOI> z[m
-[03:51:50] [Netty Server IO #4/INFO]: [[0;37;1msurvival[0;37;1m]<BOI> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz[m
-[03:53:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
-[03:57:04] [Server thread/INFO]: BOI has made the advancement [A Throwaway Joke]
-[03:57:29] [pool-3-thread-20/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+[02:20:19] [pool-3-thread-49/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -293,16 +120,15 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[03:59:14] [Server thread/WARN]: Donkey moved wrongly!
-[03:59:16] [Server thread/WARN]: Donkey moved wrongly!
-[04:00:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[04:00:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8694ms or 173 ticks behind
-[04:01:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2971ms or 59 ticks behind
-[04:02:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2440ms or 48 ticks behind
-[04:09:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2342ms or 46 ticks behind
-[04:09:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7428ms or 148 ticks behind
-[04:12:32] [Server thread/WARN]: Boat moved wrongly!
-[04:12:55] [pool-3-thread-22/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+[02:21:53] [Server thread/INFO]: BOI[/25.37.59.166:55269] logged in with entity id 459942 at ([survival]263.14617588368833, 10.0, -41.64893277821418)
+[02:25:23] [Netty Server IO #0/INFO]: [[0;37;1msurvival[0;37;1m]<fmesztro> z[m
+[02:31:14] [Netty Server IO #3/INFO]: [[0;37;1msurvival[0;37;1m]<BOI> nice[m
+[02:33:03] [Netty Server IO #3/INFO]: [[0;37;1msurvival[0;37;1m]<BOI> finoooooom[m
+[02:33:36] [Netty Server IO #3/INFO]: [[0;37;1msurvival[0;37;1m]<BOI> zabalok[m
+[02:33:53] [Netty Server IO #3/INFO]: [[0;37;1msurvival[0;37;1m]<BOI> xd[m
+[02:34:31] [Netty Server IO #3/INFO]: [[0;37;1msurvival[0;37;1m]<BOI> mittómén[m
+[02:34:34] [Netty Server IO #3/INFO]: [[0;37;1msurvival[0;37;1m]<BOI> szar az egész[m
+[02:35:19] [pool-3-thread-51/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -312,16 +138,9 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[04:15:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[04:16:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2352ms or 47 ticks behind
-[04:16:31] [Server thread/WARN]: Boat moved wrongly!
-[04:18:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[04:21:54] [Server thread/WARN]: fmesztro was kicked for floating too long!
-[04:21:54] [Server thread/INFO]: fmesztro lost connection: Flying is not enabled on this server
-[04:21:55] [Server thread/INFO]: fmesztro left the game
-[04:21:55] [Server thread/WARN]: handleDisconnection() called twice
-[04:21:58] [Server thread/INFO]: fmesztro[/25.47.185.224:60270] logged in with entity id 209198 at ([survival]17969.941296795252, 61.99486432318074, 5664.947396678841)
-[04:28:01] [pool-3-thread-24/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+[02:38:03] [Netty Server IO #3/INFO]: [[0;37;1msurvival[0;37;1m]<BOI> xd[m
+[02:38:12] [Netty Server IO #3/INFO]: [[0;37;1msurvival[0;37;1m]<BOI> nézd[m
+[02:50:19] [pool-3-thread-53/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -331,22 +150,7 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[04:30:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
-[04:30:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[04:32:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[04:33:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[04:36:37] [Netty Server IO #1/INFO]: [[0;37;1msurvival[0;37;1m]<fmesztro> z[m
-[04:37:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[04:38:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4433ms or 88 ticks behind
-[04:38:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3053ms or 61 ticks behind
-[04:38:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6897ms or 137 ticks behind
-[04:39:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4207ms or 84 ticks behind
-[04:39:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[04:39:51] [Server thread/INFO]: fmesztro lost connection: Disconnected
-[04:39:51] [Server thread/INFO]: fmesztro left the game
-[04:40:18] [Server thread/INFO]: fmesztro[/25.47.185.224:60314] logged in with entity id 246915 at ([survival]16544.66552799203, 79.0, 5741.86336516202)
-[04:43:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
-[04:43:35] [pool-3-thread-26/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+[03:05:19] [pool-3-thread-55/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -356,22 +160,9 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[04:44:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[04:44:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
-[04:45:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
-[04:45:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
-[04:46:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2757ms or 55 ticks behind
-[04:46:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[04:47:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[04:48:26] [Netty Server IO #4/INFO]: [[0;37;1msurvival[0;37;1m]<fmesztro> z[m
-[04:48:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3156ms or 63 ticks behind
-[04:48:51] [Server thread/WARN]: BOI moved too quickly! -1.759697204350232,0.9986640208878583,9.824998681367106
-[04:49:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[04:49:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2411ms or 48 ticks behind
-[04:50:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[04:53:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2240ms or 44 ticks behind
-[04:53:59] [Server thread/WARN]: fmesztro moved too quickly! -2.782074500242743,1.1377173328133097,9.591202424270705
-[04:59:00] [pool-3-thread-28/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+[03:14:55] [Netty Server IO #0/INFO]: [[0;37;1msurvival[0;37;1m]<fmesztro> z[m
+[03:15:11] [Netty Server IO #0/INFO]: [[0;37;1msurvival[0;37;1m]<fmesztro> alugy[m
+[03:20:19] [pool-3-thread-57/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -381,9 +172,9 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[05:09:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
-[05:09:02] [Server thread/WARN]: fmesztro moved too quickly! 6.072662412225327,0.1754232959521005,8.761866074884892
-[05:14:03] [pool-3-thread-30/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 4
+[03:21:58] [Server thread/INFO]: BOI has made the advancement [Eye Spy]
+[03:22:01] [Server thread/INFO]: fmesztro has made the advancement [Eye Spy]
+[03:35:19] [pool-3-thread-59/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
 java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
 	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
 	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
@@ -393,28 +184,438 @@ java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/en
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
-[05:14:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[05:19:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3044ms or 60 ticks behind
-[05:19:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2632ms or 52 ticks behind
-[05:20:32] [Server thread/WARN]: Skipping Entity with id minecraft:
-[05:20:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[05:23:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[05:24:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3565ms or 71 ticks behind
-[05:24:17] [Server thread/WARN]: fmesztro moved too quickly! 14.136489529060782,2.0,0.8603622040045593
-[05:25:43] [Server thread/INFO]: BOI lost connection: Disconnected
-[05:25:43] [Server thread/INFO]: BOI left the game
-[05:25:44] [Server thread/INFO]: fmesztro lost connection: Disconnected
-[05:25:44] [Server thread/INFO]: fmesztro left the game
-[05:25:56] [Server thread/INFO]: Stopping the server
-[05:25:56] [Server thread/INFO]: Stopping server
-[05:25:56] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5.0-b727
-[05:25:56] [Server thread/INFO]: [PingTab] Disabling PingTab v1.3.5
-[05:25:56] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.0.0-beta-04;17f52cb
-[05:25:56] [Server thread/INFO]: [PluginConstructorAPI] Disabling PluginConstructorAPI v1.0.50
-[05:25:56] [Server thread/INFO]: [LoopCommands] Disabling LoopCommands v1.6.1
-[05:25:56] [Server thread/INFO]: Saving players
-[05:25:56] [Server thread/INFO]: Saving worlds
-[05:25:56] [Server thread/INFO]: Saving chunks for level 'survival_the_end'/minecraft:the_end
-[05:25:56] [Server thread/INFO]: Saving chunks for level 'Creativeflat'/minecraft:overworld
-[05:25:56] [Server thread/INFO]: Saving chunks for level 'survival'/minecraft:overworld
-[05:25:56] [Server thread/INFO]: Saving chunks for level 'survival_nether'/minecraft:the_nether
+[03:50:19] [pool-3-thread-61/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[04:05:19] [pool-3-thread-63/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[04:08:02] [Netty Server IO #0/INFO]: [[0;37;1msurvival[0;37;1m]<fmesztro> asd[m
+[04:16:21] [Server thread/INFO]: fmesztro lost connection: Disconnected
+[04:16:21] [Server thread/INFO]: fmesztro left the game
+[04:20:19] [pool-3-thread-65/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[04:23:35] [Server thread/INFO]: BOI lost connection: Disconnected
+[04:23:36] [Server thread/INFO]: BOI left the game
+[04:35:19] [pool-3-thread-67/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[04:49:04] [Server thread/INFO]: BOI[/25.37.59.166:55734] logged in with entity id 684365 at ([survival]219.36992942190898, 80.5, -25.058008653607597)
+[04:49:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2926ms or 58 ticks behind
+[04:50:22] [pool-3-thread-69/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[05:05:22] [pool-3-thread-71/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[05:13:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[05:14:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[05:15:21] [Server thread/WARN]: Skipping Entity with id minecraft:
+[05:16:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05:16:17] [Server thread/WARN]: Skipping Entity with id minecraft:
+[05:16:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[05:16:49] [Server thread/WARN]: Boat moved wrongly!
+[05:16:49] [Server thread/WARN]: Boat moved wrongly!
+[05:17:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2384ms or 47 ticks behind
+[05:18:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[05:19:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2616ms or 52 ticks behind
+[05:19:34] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -19.620823527345237,0.0,-5.2408536643447405
+[05:19:34] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -20.004682313598096,0.0,-5.352234057257192
+[05:19:34] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -20.38846936830805,0.0,-5.463966632152278
+[05:20:37] [pool-3-thread-73/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[05:35:37] [pool-3-thread-75/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[05:50:37] [pool-3-thread-77/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[05:54:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[05:54:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5824ms or 116 ticks behind
+[05:54:52] [Server thread/WARN]: BOI moved too quickly! 17.0536682394345,-2.249187078744683,4.813584780296424
+[05:54:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12755ms or 255 ticks behind
+[05:55:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5858ms or 117 ticks behind
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 14.81293098107426,0.0,14.010287690822679
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 15.101205504289737,0.0,14.28755716615251
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 15.389471291124664,0.0,14.56483644801483
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 15.677729215217823,0.0,14.842124555756072
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 15.9659800628433,0.0,15.119420606788026
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 16.254224541648,0.0,15.39672380678121
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 16.542463288514227,0.0,15.674033440839594
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 16.83069687663601,0.0,15.95134886555661
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 17.118925821887842,0.0,16.22866950186608
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 17.407150588557215,0.0,16.505994828608436
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 17.69537159450192,0.0,16.783324376740893
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 17.983589215794836,0.0,17.060657724123757
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 18.27180379090123,0.0,17.33799449083199
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 18.56001562443953,0.0,17.615334334933323
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 18.848224990566905,0.0,17.89267694868795
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 19.13643213602427,0.0,18.17002205513063
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 19.424637282878848,0.0,18.447369404992514
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 19.712840630991195,0.0,18.724718773931727
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 20.00104236023526,0.0,19.002069960040444
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 20.289242632497917,0.0,19.279422781601625
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 20.577441593477488,0.0,19.55677707506993
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 20.86563937430219,0.0,19.83413269325456
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 21.153836092987603,0.0,20.11148950368397
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 21.4420318557477,0.0,20.388847387133865
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 21.730226758174922,0.0,20.66620623630206
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 22.018420886302465,0.0,20.943565954616588
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 22.306614317560616,0.0,21.2209264551625
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 22.594807121636222,0.0,21.49828765971688
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 22.882999361247585,0.0,21.77564949787893
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 23.171191092841127,0.0,22.053011906287793
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 23.459382367218495,0.0,22.33037482791906
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 23.747573230101352,0.0,22.607738211450396
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 24.03576372263933,0.0,22.8851020106913
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 24.323953881867055,0.0,23.16246618407149
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 24.612143741115233,0.0,23.439830694176635
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 24.900333330381727,0.0,23.717195507334054
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 25.18852267666489,0.0,23.99456059323893
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 25.476711804263232,0.0,24.271925924616426
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 25.764900735045103,0.0,24.549291476918825
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 26.053089488691967,0.0,24.826657228054046
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 26.341278082917597,0.0,25.104023158138716
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 26.629466533664072,0.0,25.381389249278072
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 26.917654855279125,0.0,25.658755485366328
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 27.205843060676216,0.0,25.936121851908865
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 27.49403116147687,0.0,26.213488335859893
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 27.782219168140728,0.0,26.490854925479198
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 28.07040709008197,0.0,26.76822161019936
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 28.35859493577209,0.0,27.045588380510253
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 28.64678271283674,0.0,27.322955227853072
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 28.934970428138513,0.0,27.600322144524853
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 29.223158087853335,0.0,27.877689123592063
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 29.511345697540037,0.0,28.15505615881557
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 29.799533262201294,0.0,28.432423244579695
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 30.087720786340014,0.0,28.70979037583038
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 30.375908274008452,0.0,28.98715754801924
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 30.664095728853226,0.0,29.264524757052186
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 30.952283154157158,0.0,29.541891999244854
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 31.24047055287383,0.0,29.819259271281226
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 31.528657927662152,0.0,30.096626570176795
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 31.816845280915004,0.0,30.373993893245824
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 32.10503261478607,0.0,30.651361238070876
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 32.39321993121348,0.0,30.92872860247644
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 32.68140723194165,0.0,31.206095984504373
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 32.96959451854036,0.0,31.48346338239253
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 33.25778179242252,0.0,31.76083079455475
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 33.54596905486005,0.0,32.03819821956358
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 33.8341563069971,0.0,32.31556565613437
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 34.12234354986367,0.0,32.592933103111136
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 34.41053078438699,0.0,32.870300559453426
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 34.698718011401525,0.0,33.14766802422446
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 34.986905231658056,0.0,33.42503549658113
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 35.27509244583234,0.0,33.702402975764926
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 35.56327965453238,0.0,33.97977046109327
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 35.85146685830614,0.0,34.25713795195179
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 36.13965405764566,0.0,34.534505447787524
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 36.42784125299477,0.0,34.81187294810252
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 36.71602844475228,0.0,35.08924045244885
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 37.004215633277454,0.0,35.36660796042361
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 37.292402818893606,0.0,35.64397547166391
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 37.58059000189132,0.0,35.92134298584324
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 37.868777182532995,0.0,36.19871050266738
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 38.156964361053724,0.0,36.47607802187213
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 38.44515153766588,0.0,36.753445543219186
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 38.73333871256,0.0,37.03081306649483
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 39.02152588590843,0.0,37.30818059150579
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 39.30971305786534,0.0,37.58554811807835
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 39.59790022856987,0.0,37.86291564605699
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 39.88608739814754,0.0,38.14028317530074
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 40.174274566710665,0.0,38.41765070568272
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 40.46246173436111,0.0,38.6950182370897
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 40.750648901189834,0.0,38.972385769418906
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 41.038836067279135,0.0,39.24975330257803
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 41.327023232702686,0.0,39.5271208364843
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 41.615210397527335,0.0,39.80448837106269
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 41.90339756181311,0.0,40.081855906246346
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 42.191584725613666,0.0,40.359223441974336
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 42.479771888977666,0.0,40.636590978192544
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 42.76795905194831,0.0,40.913958514851856
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 43.056146214565615,0.0,41.19132605190816
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 43.3443333768646,0.0,41.4686935893219
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 43.63252053887709,0.0,41.746061127057146
+[05:55:35] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 14.812833912524184,0.0,14.010396649664926
+[05:55:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12959ms or 259 ticks behind
+[05:56:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05:57:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05:58:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[05:59:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2725ms or 54 ticks behind
+[05:59:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2459ms or 49 ticks behind
+[05:59:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2166ms or 43 ticks behind
+[06:00:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 14.702645993795613,0.0,14.140227529080448
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 14.99083596276887,0.0,14.417592049537234
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 15.279025650787844,0.0,14.69495687201129
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 15.567215085948192,0.0,14.972321966301024
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 15.85540429353614,0.0,15.249687305224597
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 16.14359329630861,0.0,15.527052864318875
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 16.431782114746966,0.0,15.80441862156681
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 16.71997076728485,0.0,16.081784557152787
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 17.00815927051235,0.0,16.359150653243205
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 17.296347639360647,0.0,16.63651689378753
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 17.58453588726752,0.0,16.913883264340484
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 17.872724026326978,0.0,17.19124975190107
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 18.16091206742385,0.0,17.468616344768634
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 18.449100020354308,0.0,17.74598303241237
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 18.737287893935445,0.0,18.023349805354655
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 19.025475696101694,0.0,18.3007166550658
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 19.31366343399486,0.0,18.578083573868753
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 19.601851114041892,0.0,18.855450554854315
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 19.890038742027627,0.0,19.13281759180427
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 20.178226323158015,0.0,19.410184679122267
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 20.46641386211877,0.0,19.6875518117713
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 20.754601363126767,0.0,19.964918985218446
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 21.04278882997778,0.0,20.24228619538394
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 21.330976266086964,0.0,20.519653438595697
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 21.61916367452841,0.0,20.797020711549294
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 21.907351058069253,0.0,21.074388011270457
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 22.195538419199238,0.0,21.351755335082544
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 22.483725760159814,0.0,21.6291226805763
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 22.771913082967785,0.0,21.906490045583723
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 23.060100389438503,0.0,22.18385742815326
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 23.34828768120542,0.0,22.461224826528905
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 23.63647495973919,0.0,22.738592239129957
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 23.92466222636267,0.0,23.01595966453374
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 24.212849482267302,0.0,23.293327101460136
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 24.501036728524923,0.0,23.57069454875682
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 24.789223966100053,0.0,23.848062005386737
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 25.07741119586126,0.0,24.125429470416748
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 25.365598418589798,0.0,24.402796943006706
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 25.653785634988708,0.0,24.680164422400594
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 25.941972845690998,0.0,24.95753190791811
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 26.230160051266466,0.0,25.23489939894671
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 26.518347252228068,0.0,25.512266894935465
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 26.806534449036917,0.0,25.789634395388248
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 27.094721642108198,0.0,26.067001899858724
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 27.382908831815712,0.0,26.344369407945123
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 27.671096018495973,0.0,26.621736919285922
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 27.959283202451388,0.0,26.89910443355552
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 28.247470383954806,0.0,27.176471950461064
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 28.535657563251334,0.0,27.453839469739023
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 28.823844740561526,0.0,27.73120699115202
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 29.112031916084106,0.0,28.00857451448678
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 29.40021908999779,0.0,28.285942039550946
+[06:00:36] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! 29.68840626246356,0.0,28.56330956617171
+[06:00:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16599ms or 331 ticks behind
+[06:01:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[06:02:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[06:03:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2486ms or 49 ticks behind
+[06:03:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
+[06:04:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[06:05:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -13.183706714970867,0.0,15.540192028498495
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -13.414595037391337,0.0,15.865894583136651
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -13.643700384878684,0.0,16.192880386802983
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -13.871116600776077,0.0,16.52107411799443
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -14.096937779551808,0.0,16.85040169534477
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -14.321258282667259,0.0,17.180790220665983
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -14.544166218695864,0.0,17.512171943548765
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -14.765750613947603,0.0,17.844479745622607
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -14.986091545532872,0.0,18.177653145849888
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -15.205270846835447,0.0,18.511631624173788
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -15.423365410762926,0.0,18.846358663634987
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -15.640447689384018,0.0,19.181781361237597
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -15.856586141738262,0.0,19.517850074003434
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -16.071245652782636,0.0,19.854874681482727
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -16.28400145388241,0.0,20.193086909362876
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -16.49452329185715,0.0,20.532654839203133
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -16.70256410361162,0.0,20.87369352713057
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -16.907946096151136,0.0,21.216275909221167
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -17.110547896357275,0.0,21.56044210225241
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -17.31029962984576,0.0,21.906203993210852
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -17.50716798661324,0.0,22.253554175473255
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -17.701156466840985,0.0,22.602467069780005
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -17.892295117288995,0.0,22.952904731285173
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -18.080638163483854,0.0,23.30481867098598
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -18.266254817401204,0.0,23.658154523670305
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -18.44922795018283,0.0,24.01285300061619
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -18.629649345520193,0.0,24.36885221478576
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -18.80762245545793,0.0,24.726086692684703
+[06:06:02] [Server thread/WARN]: Boat (vehicle of BOI) moved too quickly! -18.983250732896522,0.0,25.084492438049665
+[06:07:01] [pool-3-thread-79/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[06:15:59] [Server thread/INFO]: BOI has reached the goal [Zombie Doctor]
+[06:22:01] [pool-3-thread-81/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[06:24:42] [Server thread/INFO]: BOI issued server command: /tp 225 90 -36
+[06:24:42] [Server thread/INFO]: [BOI: Teleported BOI to 225.5, 90.0, -35.5]
+[06:24:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[06:34:41] [Server thread/INFO]: BOI has reached the goal [Hired Help]
+[06:37:03] [pool-3-thread-83/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[06:52:03] [pool-3-thread-85/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[07:07:03] [pool-3-thread-87/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[07:22:03] [pool-3-thread-89/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[07:37:03] [pool-3-thread-91/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[07:52:03] [pool-3-thread-93/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[08:07:03] [pool-3-thread-95/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[08:22:03] [pool-3-thread-97/WARN]: [PingTab] Plugin PingTab v1.3.5 generated an exception while executing task 12
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at br.net.hexafun.PingTab.MetricsLite.postPlugin(MetricsLite.java:287) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite.access$200(MetricsLite.java:53) ~[?:?]
+	at br.net.hexafun.PingTab.MetricsLite$1.run(MetricsLite.java:175) ~[?:?]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftTask.run(CraftTask.java:77) ~[craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at org.bukkit.craftbukkit.v1_13_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) [craftbukkit-1.13.2.jar:git-Bukkit-a4c555b]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_191]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_191]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_191]
+[08:25:55] [Server thread/INFO]: BOI lost connection: Disconnected
+[08:25:55] [Server thread/INFO]: BOI left the game
+[08:26:02] [Server thread/INFO]: Stopping the server
+[08:26:02] [Server thread/INFO]: Stopping server
+[08:26:02] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5.0-b727
+[08:26:02] [Server thread/INFO]: [PingTab] Disabling PingTab v1.3.5
+[08:26:02] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.0.0-beta-04;17f52cb
+[08:26:02] [Server thread/INFO]: [PluginConstructorAPI] Disabling PluginConstructorAPI v1.0.50
+[08:26:02] [Server thread/INFO]: [LoopCommands] Disabling LoopCommands v1.6.1
+[08:26:03] [Server thread/INFO]: Saving players
+[08:26:03] [Server thread/INFO]: Saving worlds
+[08:26:03] [Server thread/INFO]: Saving chunks for level 'Creativeflat'/minecraft:overworld
+[08:26:03] [Server thread/INFO]: Saving chunks for level 'survival_nether'/minecraft:the_nether
+[08:26:03] [Server thread/INFO]: Saving chunks for level 'survival_the_end'/minecraft:the_end
+[08:26:03] [Server thread/INFO]: Saving chunks for level 'survival'/minecraft:overworld
