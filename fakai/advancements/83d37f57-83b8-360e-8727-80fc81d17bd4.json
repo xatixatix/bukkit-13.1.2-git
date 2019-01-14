@@ -1,0 +1,196 @@
+{
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2019-01-12 21:32:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2019-01-12 22:48:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2019-01-12 22:07:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2019-01-12 22:24:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2019-01-12 21:05:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2019-01-12 22:07:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2019-01-12 22:48:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2019-01-12 22:00:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2019-01-12 22:48:43 +0100",
+      "minecraft:spider": "2019-01-12 22:48:38 +0100",
+      "minecraft:zombie": "2019-01-12 22:48:56 +0100",
+      "minecraft:creeper": "2019-01-12 22:48:31 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2019-01-12 22:07:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2019-01-12 22:25:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2019-01-12 22:57:52 +0100",
+      "minecraft:mountains": "2019-01-12 22:52:09 +0100",
+      "minecraft:mushroom_fields": "2019-01-12 23:11:34 +0100",
+      "minecraft:taiga": "2019-01-12 22:55:02 +0100",
+      "minecraft:desert_hills": "2019-01-12 23:08:14 +0100",
+      "minecraft:deep_cold_ocean": "2019-01-12 23:10:44 +0100",
+      "minecraft:taiga_hills": "2019-01-12 22:58:52 +0100",
+      "minecraft:desert": "2019-01-12 23:08:00 +0100",
+      "minecraft:jungle": "2019-01-12 20:53:54 +0100",
+      "minecraft:birch_forest": "2019-01-12 23:02:17 +0100",
+      "minecraft:warm_ocean": "2019-01-12 23:06:43 +0100",
+      "minecraft:deep_lukewarm_ocean": "2019-01-12 23:06:49 +0100",
+      "minecraft:beach": "2019-01-12 23:06:39 +0100",
+      "minecraft:dark_forest": "2019-01-12 23:06:04 +0100",
+      "minecraft:river": "2019-01-12 22:55:09 +0100",
+      "minecraft:lukewarm_ocean": "2019-01-12 23:05:33 +0100",
+      "minecraft:birch_forest_hills": "2019-01-12 23:02:13 +0100",
+      "minecraft:wooded_mountains": "2019-01-12 22:54:19 +0100",
+      "minecraft:wooded_hills": "2019-01-12 22:53:45 +0100",
+      "minecraft:stone_shore": "2019-01-12 23:07:31 +0100",
+      "minecraft:mushroom_field_shore": "2019-01-12 23:11:22 +0100",
+      "minecraft:swamp": "2019-01-12 23:07:12 +0100",
+      "minecraft:savanna": "2019-01-12 23:15:33 +0100",
+      "minecraft:plains": "2019-01-12 20:52:32 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2019-01-12 22:48:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2019-01-12 22:07:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-01-12 21:05:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-01-12 21:22:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2019-01-12 21:58:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2019-01-12 22:47:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2019-01-12 22:07:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2019-01-12 21:32:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2019-01-12 21:05:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2019-01-12 21:37:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2019-01-12 21:05:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2019-01-12 22:07:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2019-01-12 20:55:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2019-01-12 21:05:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2019-01-12 21:32:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2019-01-12 21:05:39 +0100"
+    },
+    "done": true
+  }
+}
